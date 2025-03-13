@@ -1,0 +1,209 @@
+2025-03-08T08:00:00.280 +0530 [V]  - lastNotificationReceivedTime = 1741401000279, INFO
+2025-03-08T08:00:00.283 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:05:31.773 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:05:32.524 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:07:12.237 +0530 [V]  - lastNotificationReceivedTime = 1741401432237, INFO
+2025-03-08T08:07:12.240 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:07:12.315 +0530 [V]  - Notification: id-1716371307 sent to linwear, INFO
+2025-03-08T08:07:12.808 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T08:08:20.875 +0530 [V]  - CallReceiver : Call State = 1, Phone Number-+918553896157, INFO
+2025-03-08T08:08:20.931 +0530 [V]  - CallReceiver : Incoming Call, Phone Number= +918553896157, Caller Name-Hanoch Bnmit, INFO
+2025-03-08T08:08:20.932 +0530 [V]  - Notification: id-Notify incoming call alert product=FT_38086 phone=+918553896157, mobileORCallerName = Hanoch Bnmit, INFO
+2025-03-08T08:08:20.934 +0530 [V]  - Sending Call Notification : Number-+918553896157, Name-Hanoch Bnmit, INFO
+2025-03-08T08:08:21.116 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:08:21.117 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:08:21.119 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:08:21.121 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=null, INFO
+2025-03-08T08:08:21.121 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:08:21.123 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:08:21.279 +0530 [V]  - RLWCallNotificationCommand.class, true, INFO
+2025-03-08T08:08:21.441 +0530 [V]  - lastNotificationReceivedTime = 1741401501440, INFO
+2025-03-08T08:08:21.443 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:08:21.445 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:08:21.447 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:08:21.448 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:08:21.448 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:08:21.454 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-+91 85538 96157, text-Incoming call, flags-106, INFO
+2025-03-08T08:08:21.455 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-+91 85538 96157, text-Incoming call, flags-106, WARNING
+2025-03-08T08:08:21.462 +0530 [V]  - lastNotificationReceivedTime = 1741401501461, INFO
+2025-03-08T08:08:21.463 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:08:21.464 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:08:21.465 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:08:21.466 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:08:21.466 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:08:21.471 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-‎Hanoch Bnmit‎, text-Incoming call, flags-106, INFO
+2025-03-08T08:08:21.471 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-‎Hanoch Bnmit‎, text-Incoming call, flags-106, WARNING
+2025-03-08T08:08:29.756 +0530 [V]  - CallReceiver : Call State = 0, Phone Number-+918553896157, INFO
+2025-03-08T08:08:29.811 +0530 [V]  - CallReceiver : Missed Call, Phone Number= +918553896157, Caller Name-Hanoch Bnmit, INFO
+2025-03-08T08:08:29.811 +0530 [V]  - Call Notification Cancel Request sent., INFO
+2025-03-08T08:08:29.880 +0530 [V]  - CallReceiver Notification: id-Missed call alert product=FT_38086 phone=Missed Call, mobileORCallerName = Hanoch Bnmit, INFO
+2025-03-08T08:08:29.914 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:08:30.056 +0530 [V]  - RLWEndCallNotification.class:, true, INFO
+2025-03-08T08:08:30.181 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:08:30.778 +0530 [V]  - lastNotificationReceivedTime = 1741401510778, INFO
+2025-03-08T08:08:30.780 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:08:30.798 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-Missed call, text-Hanoch Bnmit, flags-25, WARNING
+2025-03-08T08:08:30.815 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T08:09:57.984 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:13:33.709 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.719 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.726 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.727 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.728 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.729 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:13:33.727 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T08:13:33.737 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:13:37.245 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:14:07.287 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:14:07.292 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:14:07.297 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:14:10.800 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:14:40.816 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:14:40.824 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:14:40.835 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:14:44.331 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:15:14.351 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:15:14.353 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:15:14.360 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:15:17.861 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:15:47.880 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:15:47.885 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:15:47.889 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:15:51.392 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:16:21.411 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:16:21.412 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:16:21.419 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:16:24.917 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:16:54.935 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:16:54.937 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:16:54.943 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:16:58.443 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:17:28.461 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:17:28.462 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:17:28.468 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:17:39.556 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:18:09.571 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:18:09.572 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:18:09.576 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:18:13.081 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:18:43.099 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:18:43.102 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:18:43.110 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:18:46.605 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:19:16.620 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:19:16.623 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:19:16.631 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:19:20.131 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:19:50.154 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:19:50.157 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:19:50.165 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:19:53.666 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:20:23.688 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:20:23.691 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:20:23.694 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:20:27.199 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:20:57.221 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:20:57.232 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:20:57.237 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:21:02.338 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:21:32.362 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T08:21:32.365 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T08:21:32.372 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T08:21:45.170 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T08:21:45.184 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T08:39:05.295 +0530 [V]  - lastNotificationReceivedTime = 1741403345294, INFO
+2025-03-08T08:39:05.309 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:39:05.325 +0530 [V]  - Notification: id-0, Duplicate Notification, package-com.documentreader.documentapp.filereader, title- New PDF Available, text-Easily view and convert file to PDFs with All Document Reader , flags-16, INFO
+2025-03-08T08:40:43.121 +0530 [V]  - CallReceiver : Call State = 1, Phone Number-+919155507707, INFO
+2025-03-08T08:40:43.632 +0530 [V]  - CallReceiver : Incoming Call, Phone Number= +919155507707, Caller Name-Haider Bnmit, INFO
+2025-03-08T08:40:43.635 +0530 [V]  - Notification: id-Notify incoming call alert product=FT_38086 phone=+919155507707, mobileORCallerName = Haider Bnmit, INFO
+2025-03-08T08:40:43.642 +0530 [V]  - Sending Call Notification : Number-+919155507707, Name-Haider Bnmit, INFO
+2025-03-08T08:40:43.730 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:40:43.731 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:40:43.733 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:40:43.743 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:40:43.745 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=null, INFO
+2025-03-08T08:40:43.754 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:40:44.004 +0530 [V]  - RLWCallNotificationCommand.class, true, INFO
+2025-03-08T08:40:44.085 +0530 [V]  - lastNotificationReceivedTime = 1741403444083, INFO
+2025-03-08T08:40:44.089 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:40:44.091 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:40:44.097 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:40:44.104 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:40:44.107 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:40:44.119 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-+91 91555 07707, text-Incoming call, flags-106, INFO
+2025-03-08T08:40:44.128 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-+91 91555 07707, text-Incoming call, flags-106, WARNING
+2025-03-08T08:40:44.135 +0530 [V]  - lastNotificationReceivedTime = 1741403444132, INFO
+2025-03-08T08:40:44.136 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:40:44.146 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:40:44.149 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:40:44.185 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:40:44.185 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:40:44.206 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-+91 91555 07707, text-Incoming call, flags-106, INFO
+2025-03-08T08:40:44.208 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-+91 91555 07707, text-Incoming call, flags-106, WARNING
+2025-03-08T08:40:44.210 +0530 [V]  - lastNotificationReceivedTime = 1741403444210, INFO
+2025-03-08T08:40:44.214 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:40:44.220 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:40:44.221 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:40:44.226 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:40:44.227 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:40:44.249 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-‎Haider Bnmit‎, text-Incoming call, flags-106, INFO
+2025-03-08T08:40:44.250 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-‎Haider Bnmit‎, text-Incoming call, flags-106, WARNING
+2025-03-08T08:41:11.462 +0530 [V]  - CallReceiver : Call State = 0, Phone Number-+919155507707, INFO
+2025-03-08T08:41:11.493 +0530 [V]  - CallReceiver : Missed Call, Phone Number= +919155507707, Caller Name-Haider Bnmit, INFO
+2025-03-08T08:41:11.494 +0530 [V]  - Call Notification Cancel Request sent., INFO
+2025-03-08T08:41:11.572 +0530 [V]  - CallReceiver Notification: id-Missed call alert product=FT_38086 phone=Missed Call, mobileORCallerName = Haider Bnmit, INFO
+2025-03-08T08:41:11.590 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:41:11.590 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:11.823 +0530 [V]  - RLWEndCallNotification.class:, true, INFO
+2025-03-08T08:41:12.033 +0530 [V]  - lastNotificationReceivedTime = 1741403472033, INFO
+2025-03-08T08:41:12.035 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:12.039 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-Missed call, text-Haider Bnmit, flags-25, WARNING
+2025-03-08T08:41:12.349 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T08:41:16.214 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:18.761 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:41:18.762 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:41:18.771 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:41:18.788 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:41:18.791 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=null, INFO
+2025-03-08T08:41:18.795 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:41:19.328 +0530 [V]  - CallReceiver : Call State = 2, Phone Number-+919155507707, INFO
+2025-03-08T08:41:19.401 +0530 [V]  - CallReceiver : Outgoing Call, Phone Number= +919155507707, Caller Name-Haider Bnmit, INFO
+2025-03-08T08:41:19.669 +0530 [V]  - lastNotificationReceivedTime = 1741403479669, INFO
+2025-03-08T08:41:19.670 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:41:19.672 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:41:19.672 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:41:19.675 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:41:19.676 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:21.258 +0530 [V]  - lastNotificationReceivedTime = 1741403481258, INFO
+2025-03-08T08:41:21.259 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:41:21.260 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:41:21.262 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:41:21.262 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:41:21.263 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:22.161 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:41:22.162 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:41:22.163 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:41:22.164 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:41:22.165 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:41:24.353 +0530 [V]  - lastNotificationReceivedTime = 1741403484353, INFO
+2025-03-08T08:41:24.355 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:41:24.356 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:41:24.357 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:41:24.358 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:41:24.359 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:42:39.762 +0530 [V]  - lastNotificationReceivedTime = 1741403559761, INFO
+2025-03-08T08:42:39.764 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:42:39.765 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:42:39.766 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:42:39.768 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:42:39.768 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:43:58.643 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T08:43:58.644 +0530 [V]  - Music filters passed, INFO
+2025-03-08T08:43:58.647 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T08:43:58.651 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T08:43:58.652 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T08:43:58.781 +0530 [V]  - CallReceiver : Call State = 0, Phone Number-+919155507707, INFO
+2025-03-08T08:43:58.854 +0530 [V]  - CallReceiver : OutgoingCall Ended, Phone Number= +919155507707, Caller Name-Haider Bnmit, INFO
+2025-03-08T08:43:58.878 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T08:43:58.908 +0530 [V]  - maySetupMediaSessionController active, INFO

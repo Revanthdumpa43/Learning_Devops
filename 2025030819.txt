@@ -1,0 +1,170 @@
+2025-03-08T19:00:10.688 +0530 [V]  - lastNotificationReceivedTime = 1741440610687, INFO
+2025-03-08T19:00:10.691 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:00:10.694 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:00:10.704 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:00:10.704 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:00:10.706 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:00:10.707 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:00:10.741 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T19:01:20.845 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:01:20.847 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:01:20.862 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:01:20.862 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:01:20.861 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:01:20.861 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:03.694 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:03.694 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:03.694 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T19:02:03.695 +0530 [V]  - Music active, INFO
+2025-03-08T19:02:03.911 +0530 [V]  - lastNotificationReceivedTime = 1741440723910, INFO
+2025-03-08T19:02:03.914 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:03.916 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:03.924 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:03.925 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:03.927 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:03.927 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:55.840 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T19:02:55.841 +0530 [V]  - Music active, INFO
+2025-03-08T19:02:55.841 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PAUSED, INFO
+2025-03-08T19:02:55.841 +0530 [V]  - lastTime 1741440775841, INFO
+2025-03-08T19:02:55.842 +0530 [V]  - {"album":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","artist":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","current":50650,"duration":230000,"playState":"PAUSE","title":"Ram Sita Ram"}, INFO
+2025-03-08T19:02:55.844 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T19:02:55.911 +0530 [V]  - lastNotificationReceivedTime = 1741440775910, INFO
+2025-03-08T19:02:55.912 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:55.914 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:55.921 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:55.921 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:55.924 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:55.925 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:56.078 +0530 [V]  - lastNotificationReceivedTime = 1741440776078, INFO
+2025-03-08T19:02:56.079 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:56.081 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:56.093 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:56.093 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:56.096 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:56.095 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:56.126 +0530 [V]  - lastNotificationReceivedTime = 1741440776125, INFO
+2025-03-08T19:02:56.129 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:56.131 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:56.141 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:56.141 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:56.143 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:56.144 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:56.731 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T19:02:56.732 +0530 [V]  - Music active, INFO
+2025-03-08T19:02:56.864 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:56.865 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:56.866 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T19:02:56.867 +0530 [V]  - Music active, INFO
+2025-03-08T19:02:57.006 +0530 [V]  - lastNotificationReceivedTime = 1741440777005, INFO
+2025-03-08T19:02:57.008 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:57.009 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:57.017 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:57.017 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:57.019 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:57.021 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:57.100 +0530 [V]  - lastNotificationReceivedTime = 1741440777099, INFO
+2025-03-08T19:02:57.103 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:57.106 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:57.115 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:57.116 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:57.119 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:57.120 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:57.134 +0530 [V]  - lastNotificationReceivedTime = 1741440777134, INFO
+2025-03-08T19:02:57.136 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:57.141 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:57.151 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:57.151 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:57.153 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:57.154 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:02:59.544 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:59.545 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:59.545 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T19:02:59.546 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PLAYING, INFO
+2025-03-08T19:02:59.546 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T19:02:59.546 +0530 [V]  - {"album":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","artist":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","current":0,"duration":230000,"playState":"PLAYING","title":"Ram Sita Ram"}, INFO
+2025-03-08T19:02:59.546 +0530 [V]  - Music active, INFO
+2025-03-08T19:02:59.764 +0530 [V]  - lastNotificationReceivedTime = 1741440779763, INFO
+2025-03-08T19:02:59.770 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:02:59.774 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:02:59.790 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:02:59.791 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:02:59.797 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:02:59.797 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:03:01.695 +0530 [V]  - lastTime 1741440781694, INFO
+2025-03-08T19:03:01.694 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PAUSED, INFO
+2025-03-08T19:03:01.694 +0530 [V]  - Music active, INFO
+2025-03-08T19:03:01.698 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T19:03:01.696 +0530 [V]  - {"album":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","artist":"Sachet-Parampara, Karthik, Parampara Tandon - Adipurush - Telugu","current":1364,"duration":230000,"playState":"PAUSE","title":"Ram Sita Ram"}, INFO
+2025-03-08T19:03:01.693 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T19:03:01.752 +0530 [V]  - lastNotificationReceivedTime = 1741440781752, INFO
+2025-03-08T19:03:01.753 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:03:01.755 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:03:01.762 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:03:01.763 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:03:01.765 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:03:01.766 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:03:01.932 +0530 [V]  - lastNotificationReceivedTime = 1741440781930, INFO
+2025-03-08T19:03:01.933 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:03:01.937 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:03:01.943 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:03:01.942 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:03:01.945 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:03:01.946 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:03:01.954 +0530 [V]  - lastNotificationReceivedTime = 1741440781954, INFO
+2025-03-08T19:03:01.956 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T19:03:01.957 +0530 [V]  - Music filters passed, INFO
+2025-03-08T19:03:01.963 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T19:03:01.963 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T19:03:01.966 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:03:01.966 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T19:04:50.203 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:04:50.205 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T19:04:50.210 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T19:04:50.210 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T19:04:50.211 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T19:04:51.597 +0530 [V]  - lastNotificationReceivedTime = 1741440891597, INFO
+2025-03-08T19:04:51.599 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:04:55.091 +0530 [V]  - Notification: id-1741172391 sent to linwear, INFO
+2025-03-08T19:06:53.147 +0530 [V]  - lastNotificationReceivedTime = 1741441013146, INFO
+2025-03-08T19:06:53.152 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:06:53.162 +0530 [V]  - Notification: id-952087730 sent to linwear, INFO
+2025-03-08T19:07:59.734 +0530 [V]  - lastNotificationReceivedTime = 1741441079733, INFO
+2025-03-08T19:07:59.736 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:07:59.749 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T19:08:16.358 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:09:27.847 +0530 [V]  - lastNotificationReceivedTime = 1741441167846, INFO
+2025-03-08T19:09:27.850 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:09:27.864 +0530 [V]  - lastNotificationReceivedTime = 1741441167861, INFO
+2025-03-08T19:09:27.876 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:10:52.726 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:10:52.727 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:10:54.491 +0530 [V]  - lastNotificationReceivedTime = 1741441254491, INFO
+2025-03-08T19:10:54.495 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:10:54.505 +0530 [V]  - lastNotificationReceivedTime = 1741441254504, INFO
+2025-03-08T19:10:54.507 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:11:13.485 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:11:13.490 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:22:24.946 +0530 [V]  - lastNotificationReceivedTime = 1741441944945, INFO
+2025-03-08T19:22:24.951 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:22:24.969 +0530 [V]  - Notification: id-712768035 sent to linwear, INFO
+2025-03-08T19:28:13.506 +0530 [V]  - lastNotificationReceivedTime = 1741442293503, INFO
+2025-03-08T19:28:13.506 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:28:13.516 +0530 [V]  - lastNotificationReceivedTime = 1741442293515, INFO
+2025-03-08T19:28:13.517 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:28:13.530 +0530 [V]  - Notification: id-0 sent to linwear, INFO
+2025-03-08T19:51:26.715 +0530 [V]  - lastNotificationReceivedTime = 1741443686714, INFO
+2025-03-08T19:51:26.720 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:51:26.735 +0530 [V]  - Notification: id-17987 sent to linwear, INFO
+2025-03-08T19:52:16.209 +0530 [V]  - lastNotificationReceivedTime = 1741443736208, INFO
+2025-03-08T19:52:16.213 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:52:16.222 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T19:52:16.325 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:52:17.915 +0530 [V]  - lastNotificationReceivedTime = 1741443737914, INFO
+2025-03-08T19:52:17.919 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:52:17.939 +0530 [V]  - Notification: id--1445021803, Duplicate Notification, package-org.telegram.messenger, title-Offers Point, text-IFB - 9 Kg 5 Star - AI WiFi, Fully Automatic Front Load Washing Machine @29,490 Apply ₹2,000 off Coupon + ₹6,500 Discount with AXIS / HDFC Credit Card - No Cost EMILink: https://amzn.to/3Ffr4J6, flags-16, INFO
+2025-03-08T19:55:30.406 +0530 [V]  - lastNotificationReceivedTime = 1741443930406, INFO
+2025-03-08T19:55:30.410 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:55:30.422 +0530 [V]  - Notification: id-1741361961 sent to linwear, INFO
+2025-03-08T19:59:53.949 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T19:59:54.275 +0530 [V]  - maySetupMediaSessionController active, INFO

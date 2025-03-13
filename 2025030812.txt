@@ -1,0 +1,1819 @@
+2025-03-08T12:00:17.548 +0530 [V]  - lastNotificationReceivedTime = 1741415417548, INFO
+2025-03-08T12:00:17.549 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:00:17.552 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:00:17.554 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:00:17.554 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:00:17.556 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:00:17.556 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:00:17.571 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T12:00:43.529 +0530 [V]  - lastNotificationReceivedTime = 1741415443528, INFO
+2025-03-08T12:00:43.530 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:00:43.532 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:00:43.535 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:00:43.536 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:00:43.537 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:00:43.538 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:00:43.547 +0530 [V]  - Notification: id-740, Duplicate Notification, package-android, title-Sign in to Wi-Fi network, text-GJBC_PESU52, flags-2328, INFO
+2025-03-08T12:05:01.758 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:05:01.761 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:05:01.763 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:05:01.764 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:05:01.765 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:05:01.765 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:05:02.676 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:05:02.682 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:05:02.684 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:05:02.684 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:05:02.685 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:05:02.685 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:09:22.886 +0530 [V]  - lastNotificationReceivedTime = 1741415962885, INFO
+2025-03-08T12:09:22.889 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:09:22.900 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:09:22.902 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:09:22.903 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:09:22.905 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:09:22.905 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:09:22.928 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T12:11:33.648 +0530 [V]  - lastNotificationReceivedTime = 1741416093645, INFO
+2025-03-08T12:11:33.649 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:11:33.651 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:11:33.653 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:11:33.653 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:11:33.655 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:11:33.655 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:11:33.676 +0530 [V]  - Notification: id-1741346210 sent to linwear, INFO
+2025-03-08T12:14:43.448 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:14:43.453 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:14:43.454 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:14:43.455 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:14:43.454 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:14:43.455 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:14:44.022 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:14:44.024 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:14:44.025 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:14:44.026 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:14:44.027 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:14:44.028 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:16:02.436 +0530 [V]  - lastNotificationReceivedTime = 1741416362434, INFO
+2025-03-08T12:16:02.438 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:16:02.442 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:16:02.445 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:16:02.446 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:16:02.449 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:16:02.449 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:16:02.462 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T12:16:12.673 +0530 [V]  - lastNotificationReceivedTime = 1741416372672, INFO
+2025-03-08T12:16:12.675 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:16:12.678 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:16:12.680 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:16:12.680 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:16:12.683 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:16:12.684 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:16:12.698 +0530 [V]  - Notification: id-740, Duplicate Notification, package-android, title-Sign in to Wi-Fi network, text-GJBC_PESU52, flags-2328, INFO
+2025-03-08T12:17:16.598 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:17:16.606 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:17:16.610 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:17:16.610 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:17:16.612 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:17:16.613 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:17:56.865 +0530 [V]  - lastNotificationReceivedTime = 1741416476863, INFO
+2025-03-08T12:17:56.867 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:17:56.870 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:17:56.872 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:17:56.872 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:17:56.875 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:17:56.874 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:17:56.979 +0530 [V]  - lastNotificationReceivedTime = 1741416476979, INFO
+2025-03-08T12:17:56.981 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:17:56.985 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:17:56.986 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:17:56.987 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:17:56.991 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:17:56.991 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:17:57.002 +0530 [V]  - Notification: id-0, Duplicate Notification, package-com.google.android.googlequicksearchbox, title-, text-Mostly sunny · See full forecast, flags-8, INFO
+2025-03-08T12:22:30.844 +0530 [V]  - lastNotificationReceivedTime = 1741416750844, INFO
+2025-03-08T12:22:30.850 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:22:30.853 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:22:30.856 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:22:30.856 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:22:30.858 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:22:30.858 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:22:30.868 +0530 [V]  - Notification: id-17303299, Duplicate Notification, package-android, title-Connect to open Wi‑Fi network, text-GJBC_Cafeteria, flags-2304, INFO
+2025-03-08T12:24:35.423 +0530 [V]  - lastNotificationReceivedTime = 1741416875421, INFO
+2025-03-08T12:24:35.425 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:24:35.426 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:24:35.426 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:24:35.426 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:24:35.428 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:24:35.429 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:24:35.438 +0530 [V]  - Notification: id--1791883516 sent to linwear, INFO
+2025-03-08T12:24:45.504 +0530 [V]  - lastNotificationReceivedTime = 1741416885504, INFO
+2025-03-08T12:24:45.506 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:24:45.508 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:24:45.511 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:24:45.512 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:24:45.513 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:24:45.514 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:24:45.527 +0530 [V]  - Notification: id--1791883516, Duplicate Notification, package-com.flipkart.android, title-Cute Kurtis For Her!, text-Min. 70% Off  Save Big On Comfy Kurtis , flags-0, INFO
+2025-03-08T12:26:05.818 +0530 [V]  - lastNotificationReceivedTime = 1741416965818, INFO
+2025-03-08T12:26:05.819 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:26:05.820 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:26:05.820 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:26:05.820 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:26:05.821 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:26:05.821 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:26:05.829 +0530 [V]  - Notification: id--1791883516, Duplicate Notification, package-com.flipkart.android, title-Cute Kurtis For Her!, text-Min. 70% Off  Save Big On Comfy Kurtis , flags-0, INFO
+2025-03-08T12:26:15.906 +0530 [V]  - lastNotificationReceivedTime = 1741416975906, INFO
+2025-03-08T12:26:15.908 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:26:15.909 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:26:15.911 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:26:15.911 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:26:15.912 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:26:15.913 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:26:15.920 +0530 [V]  - Notification: id--1791883516, Duplicate Notification, package-com.flipkart.android, title-Cute Kurtis For Her!, text-Min. 70% Off  Save Big On Comfy Kurtis , flags-0, INFO
+2025-03-08T12:26:20.532 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:26:20.538 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:26:20.539 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:26:20.539 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:26:20.541 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:26:20.541 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:26:26.941 +0530 [V]  - lastNotificationReceivedTime = 1741416986939, INFO
+2025-03-08T12:26:26.942 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:26:26.948 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:26:26.951 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:26:26.953 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:26:26.955 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:26:26.955 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:26:26.967 +0530 [V]  - Notification: id-740, Duplicate Notification, package-android, title-Sign in to Wi-Fi network, text-GJBC_PESU52, flags-2328, INFO
+2025-03-08T12:26:40.629 +0530 [V]  - Bluetooth disabled, INFO
+2025-03-08T12:27:57.497 +0530 [V]  - lastNotificationReceivedTime = 1741417077496, INFO
+2025-03-08T12:27:57.499 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:27:57.526 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:27:57.528 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:27:57.529 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:27:57.530 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:27:57.530 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:28:01.496 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:28:01.496 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:01.603 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:28:01.603 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:01.603 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:28:01.605 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PLAYING, INFO
+2025-03-08T12:28:01.604 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:01.610 +0530 [V]  - {"album":"Download","artist":"\u003cunknown\u003e","current":252514,"duration":423993,"playState":"PLAYING","title":"Ayyappa Swamy Special Songs  Pallikattu Sabarimalaiki  Telugu Devotional Songs  Devotional  TV"}, INFO
+2025-03-08T12:28:01.615 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T12:28:01.827 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:28:01.826 +0530 [V]  - lastNotificationReceivedTime = 1741417081825, INFO
+2025-03-08T12:28:01.829 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:28:01.831 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:28:01.830 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:28:01.832 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:28:01.833 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:28:02.485 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:02.485 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:03.484 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:03.485 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:04.485 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:04.485 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:05.485 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:05.485 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:06.485 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:06.486 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:07.486 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:07.486 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:08.491 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:08.492 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:09.488 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:09.489 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:10.491 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:10.492 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:11.492 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:11.493 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:12.495 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:28:12.496 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:13.608 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:28:13.608 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:28:13.611 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:28:13.611 +0530 [V]  - Music active, INFO
+2025-03-08T12:28:13.611 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PAUSED, INFO
+2025-03-08T12:28:13.612 +0530 [V]  - lastTime 1741417093612, INFO
+2025-03-08T12:28:13.613 +0530 [V]  - {"album":"Download","artist":"\u003cunknown\u003e","current":262896,"duration":423993,"playState":"PAUSE","title":"Ayyappa Swamy Special Songs  Pallikattu Sabarimalaiki  Telugu Devotional Songs  Devotional  TV"}, INFO
+2025-03-08T12:28:13.615 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T12:28:13.828 +0530 [V]  - lastNotificationReceivedTime = 1741417093827, INFO
+2025-03-08T12:28:13.828 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:28:13.832 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:28:13.833 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:28:13.833 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:28:13.834 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:28:13.834 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:30:22.927 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T12:30:22.934 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:22.973 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:22.976 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:22.982 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:30:22.982 +0530 [V]  - Music active, INFO
+2025-03-08T12:30:22.990 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:22.989 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:30:24.747 +0530 [V]  - lastNotificationReceivedTime = 1741417224745, INFO
+2025-03-08T12:30:24.749 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:24.755 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:24.757 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:24.757 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:24.759 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:30:24.762 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:30:45.059 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:45.071 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:45.075 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:45.077 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:45.080 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:30:45.080 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:30:48.546 +0530 [V]  - lastNotificationReceivedTime = 1741417248546, INFO
+2025-03-08T12:30:48.548 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:48.554 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:48.557 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:48.558 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:48.561 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:30:48.562 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:30:48.607 +0530 [V]  - Notification: id-17303299, Duplicate Notification, package-android, title-Connect to open Wi‑Fi network, text-GJBC_Cafeteria, flags-2304, INFO
+2025-03-08T12:30:53.075 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:53.079 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:53.082 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:53.082 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:53.083 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:30:53.084 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:30:56.735 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T12:30:56.735 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:30:56.750 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:30:56.751 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:30:56.752 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:30:56.754 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:30:56.759 +0530 [V]  - Music active, INFO
+2025-03-08T12:30:56.762 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:05.718 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:05.721 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:05.722 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:05.723 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:05.724 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:05.724 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:31:07.562 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:07.565 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:07.572 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:07.573 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:07.576 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:07.576 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:31:07.578 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:07.582 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:07.588 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:07.588 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:07.588 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:07.589 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:31:07.594 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:07.596 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:07.597 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:07.599 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:07.601 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:07.601 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:31:07.604 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:07.606 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:07.607 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:07.607 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:07.608 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:07.608 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:31:34.180 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:31:34.185 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:31:34.188 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:31:34.189 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:31:34.191 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:31:34.193 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:37:48.232 +0530 [V]  - lastNotificationReceivedTime = 1741417668229, INFO
+2025-03-08T12:37:48.242 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:37:48.245 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:37:48.247 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:37:48.247 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:37:48.248 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:37:48.250 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:37:48.280 +0530 [V]  - Notification: id-740, Duplicate Notification, package-android, title-Sign in to Wi-Fi network, text-GJBC_PESU52, flags-2328, INFO
+2025-03-08T12:39:08.012 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:39:08.014 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:39:08.016 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:39:08.016 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:39:08.018 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:39:08.018 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:42:54.927 +0530 [V]  - lastNotificationReceivedTime = 1741417974927, INFO
+2025-03-08T12:42:54.945 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:42:55.017 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:42:55.021 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:42:55.021 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:42:55.022 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:42:55.023 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:42:55.033 +0530 [V]  - lastNotificationReceivedTime = 1741417975033, INFO
+2025-03-08T12:42:55.035 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:42:55.038 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:42:55.041 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:42:55.042 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:42:55.047 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:42:55.049 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:11.762 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:11.765 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:11.766 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:11.766 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:11.768 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:11.768 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:11.770 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:11.772 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:11.774 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:11.774 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:11.776 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:11.776 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:13.284 +0530 [V]  - lastNotificationReceivedTime = 1741417993283, INFO
+2025-03-08T12:43:13.289 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:13.295 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:13.297 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:13.299 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:13.304 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:13.305 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:13.308 +0530 [V]  - lastNotificationReceivedTime = 1741417993308, INFO
+2025-03-08T12:43:13.310 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:13.314 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:13.322 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:13.326 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:13.328 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:13.330 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:14.998 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:15.002 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:15.008 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:15.009 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:15.013 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:15.014 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:15.219 +0530 [V]  - lastNotificationReceivedTime = 1741417995219, INFO
+2025-03-08T12:43:15.220 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:15.222 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:15.224 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:15.224 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:15.225 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:15.225 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:18.060 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:18.062 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:18.064 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:18.064 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:18.066 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:18.066 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:18.069 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:18.071 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:18.073 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:18.073 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:18.075 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:18.076 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:19.764 +0530 [V]  - lastNotificationReceivedTime = 1741417999763, INFO
+2025-03-08T12:43:19.766 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:19.776 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:19.783 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:19.790 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:19.804 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:19.807 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:19.807 +0530 [V]  - lastNotificationReceivedTime = 1741417999806, INFO
+2025-03-08T12:43:19.810 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:19.816 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:19.830 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:19.831 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:19.837 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:19.838 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:24.402 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:24.405 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:24.406 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:24.407 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:24.408 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:24.409 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:24.411 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:24.412 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:24.413 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:24.414 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:24.415 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:24.415 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:39.306 +0530 [V]  - lastNotificationReceivedTime = 1741418019304, INFO
+2025-03-08T12:43:39.308 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:39.311 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:39.313 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:39.314 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:39.318 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:39.319 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:39.321 +0530 [V]  - lastNotificationReceivedTime = 1741418019321, INFO
+2025-03-08T12:43:39.322 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:39.324 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:39.326 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:39.326 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:39.328 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:39.328 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:46.409 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:46.412 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:46.413 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:46.414 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:46.417 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:46.418 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:43:46.610 +0530 [V]  - lastNotificationReceivedTime = 1741418026610, INFO
+2025-03-08T12:43:46.611 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:43:46.613 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:43:46.614 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:43:46.614 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:43:46.615 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:43:46.615 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:48:54.658 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T12:48:54.665 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:48:54.679 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:48:54.681 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:48:54.682 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:48:54.687 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:48:54.688 +0530 [V]  - Music active, INFO
+2025-03-08T12:48:54.692 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:48:56.389 +0530 [V]  - lastNotificationReceivedTime = 1741418336388, INFO
+2025-03-08T12:48:56.392 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:48:56.402 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:48:56.405 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:48:56.406 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:48:56.408 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:48:56.408 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:08.197 +0530 [V]  - lastNotificationReceivedTime = 1741418348197, INFO
+2025-03-08T12:49:08.199 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:08.202 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:08.204 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:08.204 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:08.205 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:08.206 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:08.404 +0530 [V]  - lastNotificationReceivedTime = 1741418348404, INFO
+2025-03-08T12:49:08.405 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:08.406 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:08.407 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:08.407 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:08.408 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:08.408 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:10.900 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:10.902 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:10.903 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:10.904 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:10.905 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:10.906 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:10.908 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:10.910 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:10.911 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:10.913 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:10.913 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:10.913 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:14.659 +0530 [V]  - lastNotificationReceivedTime = 1741418354659, INFO
+2025-03-08T12:49:14.667 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:14.670 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:14.674 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:14.676 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:14.685 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:14.686 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:14.689 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:14.693 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:14.700 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:14.703 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:14.706 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:14.709 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:14.964 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T12:49:14.964 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:14.965 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:14.969 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:14.970 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:14.975 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:49:14.975 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:14.979 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:26.194 +0530 [V]  - lastNotificationReceivedTime = 1741418366194, INFO
+2025-03-08T12:49:26.197 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:26.200 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:26.202 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:26.202 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:26.204 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:26.204 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:26.238 +0530 [V]  - Notification: id-740, Duplicate Notification, package-android, title-Sign in to Wi-Fi network, text-GJBC_PESU52, flags-2328, INFO
+2025-03-08T12:49:26.321 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:49:26.327 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:26.407 +0530 [V]  - lastNotificationReceivedTime = 1741418366407, INFO
+2025-03-08T12:49:26.410 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:26.414 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:26.417 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:26.417 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:26.419 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:26.420 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:26.428 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:26.428 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:26.429 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:26.429 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:26.430 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PLAYING, INFO
+2025-03-08T12:49:26.433 +0530 [V]  - {"album":"Download","artist":"\u003cunknown\u003e","current":263646,"duration":423993,"playState":"PLAYING","title":"Ayyappa Swamy Special Songs  Pallikattu Sabarimalaiki  Telugu Devotional Songs  Devotional  TV"}, INFO
+2025-03-08T12:49:26.436 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T12:49:26.661 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:26.661 +0530 [V]  - lastNotificationReceivedTime = 1741418366657, INFO
+2025-03-08T12:49:26.673 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:26.679 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:26.681 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:26.685 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:26.685 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:27.255 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:27.255 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:49:27.255 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:27.256 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:27.256 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PAUSED, INFO
+2025-03-08T12:49:27.256 +0530 [V]  - lastTime 1741418367256, INFO
+2025-03-08T12:49:27.256 +0530 [V]  - {"album":"Download","artist":"\u003cunknown\u003e","current":263646,"duration":423993,"playState":"PAUSE","title":"Ayyappa Swamy Special Songs  Pallikattu Sabarimalaiki  Telugu Devotional Songs  Devotional  TV"}, INFO
+2025-03-08T12:49:27.257 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T12:49:27.473 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:27.473 +0530 [V]  - lastNotificationReceivedTime = 1741418367471, INFO
+2025-03-08T12:49:27.474 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:27.477 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:27.478 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:27.480 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:27.480 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:31.662 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T12:49:31.662 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:31.775 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:31.778 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:31.786 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:31.786 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:31.787 +0530 [V]  - {"album":"Download","artist":"\u003cunknown\u003e","current":263714,"duration":423993,"playState":"PLAYING","title":"Ayyappa Swamy Special Songs  Pallikattu Sabarimalaiki  Telugu Devotional Songs  Devotional  TV"}, INFO
+2025-03-08T12:49:31.790 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PLAYING, INFO
+2025-03-08T12:49:31.799 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T12:49:32.060 +0530 [V]  - lastNotificationReceivedTime = 1741418372059, INFO
+2025-03-08T12:49:32.073 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:49:32.074 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:49:32.078 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:49:32.078 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:49:32.082 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:49:32.082 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:49:32.643 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:32.643 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:33.646 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:33.652 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:34.644 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:34.644 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:35.648 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:35.648 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:36.647 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:36.648 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:37.650 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:37.651 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:38.648 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:38.649 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:39.651 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:39.652 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:40.650 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:40.656 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:41.649 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:41.650 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:42.650 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:42.650 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:43.650 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:43.650 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:44.657 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:44.659 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:45.652 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:45.653 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:46.652 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:46.652 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:47.656 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:47.656 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:48.654 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:48.655 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:49.654 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:49.655 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:50.653 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:50.655 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:51.656 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:51.655 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:52.655 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:52.656 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:53.670 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:53.672 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:54.665 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:54.665 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:55.667 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:55.669 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:56.668 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:56.669 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:57.657 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:57.658 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:58.670 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:58.670 +0530 [V]  - Music active, INFO
+2025-03-08T12:49:59.669 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:49:59.670 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:00.668 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:00.669 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:01.668 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:01.668 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:02.669 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:02.670 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:03.672 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:03.672 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:04.674 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:04.673 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:05.673 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:05.673 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:06.676 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:06.677 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:07.673 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:07.673 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:08.674 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:08.674 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:09.677 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:09.678 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:10.675 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:10.675 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:11.674 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:11.675 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:12.675 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:12.676 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:13.673 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:13.674 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:14.674 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:14.675 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:15.676 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:15.677 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:16.678 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:16.678 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:17.680 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:17.680 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:18.676 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:18.676 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:19.680 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:19.680 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:20.679 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:20.679 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:21.678 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:21.678 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:22.679 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:22.680 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:23.680 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:23.681 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:24.679 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:24.680 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:25.680 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:25.681 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:26.679 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:26.679 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:27.681 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:27.683 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:28.682 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:28.682 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:29.687 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:29.688 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:30.683 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:30.684 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:31.683 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:31.684 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:32.692 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:32.693 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:33.684 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:33.685 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:34.685 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:34.687 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:35.686 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:35.686 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:36.689 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:36.689 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:37.686 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:37.689 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:38.692 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:38.694 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:39.688 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:39.689 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:40.688 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:40.689 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:41.689 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:41.689 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:42.692 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:42.692 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:43.690 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:43.691 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:44.692 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:44.693 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:45.696 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:45.697 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:46.706 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:46.707 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:47.693 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:47.694 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:48.694 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:48.697 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:49.698 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:49.699 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:50.708 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:50.709 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:51.721 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:51.721 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:52.713 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:52.713 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:53.706 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:53.706 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:54.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:54.710 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:55.710 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:55.711 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:56.716 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:56.715 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:57.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:57.709 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:58.710 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:58.711 +0530 [V]  - Music active, INFO
+2025-03-08T12:50:59.711 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:50:59.711 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:00.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:00.710 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:01.710 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:01.710 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:02.706 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:02.705 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:03.705 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:03.706 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:04.706 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:04.707 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:05.707 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:05.708 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:06.707 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:06.708 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:07.707 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:07.708 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:08.708 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:08.708 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:09.708 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:09.709 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:10.707 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:10.707 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:11.708 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:11.708 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:12.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:12.710 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:13.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:13.709 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:14.709 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:14.709 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:15.710 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:15.711 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:16.714 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:16.715 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:17.713 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:17.713 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:18.711 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:18.712 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:19.711 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:19.711 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:20.715 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:20.716 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:21.716 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:21.717 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:22.717 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:22.718 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:23.716 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:23.716 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:24.716 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:24.717 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:25.718 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:25.720 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:26.719 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:26.720 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:27.719 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:27.720 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:28.718 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:28.718 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:29.722 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:29.723 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:30.722 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:30.723 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:31.724 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:31.725 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:32.724 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:32.725 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:33.725 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:33.725 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:34.725 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:34.726 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:35.727 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:35.728 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:36.729 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:36.730 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:37.729 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:37.730 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:38.730 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:38.731 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:39.728 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:39.728 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:40.732 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:40.733 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:41.731 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:41.732 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:42.732 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:42.733 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:43.731 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:43.732 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:44.733 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:44.734 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:45.734 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:45.735 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:46.736 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:46.737 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:47.735 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:47.735 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:48.737 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:48.737 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:49.735 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:49.736 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:50.737 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:50.738 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:51.737 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:51.738 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:52.738 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:52.739 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:53.738 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:53.737 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:54.738 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:54.739 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:55.737 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:55.737 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:56.739 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:56.741 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:57.739 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:57.739 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:58.739 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:58.739 +0530 [V]  - Music active, INFO
+2025-03-08T12:51:59.740 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:51:59.742 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:00.743 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:00.744 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:01.744 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:01.745 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:02.743 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:02.744 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:03.746 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:03.746 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:04.744 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:04.745 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:05.745 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:05.746 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:06.745 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:06.746 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:07.748 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:07.749 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:08.749 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:08.750 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:09.749 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:09.750 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:10.748 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:10.748 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:11.750 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:11.750 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:12.756 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:12.757 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:13.385 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:13.385 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:13.514 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:52:13.514 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:13.514 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:52:13.515 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:13.543 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:13.547 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:13.746 +0530 [V]  - lastNotificationReceivedTime = 1741418533745, INFO
+2025-03-08T12:52:13.748 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:52:13.749 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:52:13.752 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:52:13.752 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:52:13.755 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:52:13.756 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:52:15.757 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:15.757 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:16.758 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:16.760 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:17.757 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:17.758 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:18.758 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:18.759 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:19.757 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:19.758 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:20.759 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:20.760 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:21.759 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:21.760 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:22.760 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:22.760 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:23.760 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:23.761 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:24.760 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:24.761 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:25.761 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:25.762 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:26.762 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:26.764 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:27.765 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:27.764 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:28.762 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:28.764 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:29.765 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:29.766 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:30.765 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:30.766 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:31.765 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:31.766 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:32.766 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:32.767 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:33.766 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:33.767 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:34.768 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:34.769 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:35.769 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:35.769 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:36.769 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:36.769 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:37.771 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:37.771 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:38.772 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:38.772 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:39.774 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:39.775 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:40.771 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:40.772 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:41.773 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:41.774 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:42.776 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:42.776 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:43.775 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:43.776 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:44.778 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:44.779 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:45.774 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:45.774 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:46.779 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:46.780 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:47.778 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:47.781 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:48.778 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:48.779 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:49.779 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:49.779 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:50.779 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:50.781 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:51.782 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:51.782 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:52.780 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:52.783 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:53.782 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:53.783 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:54.783 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:54.784 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:55.784 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:55.785 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:56.784 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:56.785 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:57.785 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:57.786 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:58.785 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:58.786 +0530 [V]  - Music active, INFO
+2025-03-08T12:52:59.785 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:52:59.786 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:00.786 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:00.786 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:01.787 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:01.788 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:02.785 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:02.785 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:03.786 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:03.787 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:04.786 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:04.787 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:05.788 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:05.789 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:06.788 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:06.789 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:07.789 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:07.790 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:08.790 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:08.791 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:09.790 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:09.791 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:10.791 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:10.792 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:11.791 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:11.791 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:12.790 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:12.791 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:13.792 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:13.794 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:14.794 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:14.794 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:15.795 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:15.796 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:16.795 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:16.795 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:17.796 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:17.797 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:18.797 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:18.798 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:19.798 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:19.799 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:20.798 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:20.799 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:21.798 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:21.799 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:22.801 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:22.803 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:23.800 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:23.801 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:24.803 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:24.805 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:25.799 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:25.800 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:26.802 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:26.803 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:27.807 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:27.809 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:28.808 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:28.808 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:29.808 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:29.808 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:30.805 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:30.805 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:31.809 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:31.810 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:32.810 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:32.811 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:33.810 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:33.811 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:34.812 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:34.813 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:35.809 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:35.809 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:36.811 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:36.813 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:37.810 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:37.811 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:38.811 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:38.814 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:39.812 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:39.813 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:40.814 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:40.815 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:41.812 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:41.812 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:42.814 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:42.815 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:43.815 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:43.816 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:44.815 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:44.816 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:45.817 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:45.819 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:46.819 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:46.819 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:47.817 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:47.818 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:48.819 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:48.820 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:49.819 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:49.820 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:50.822 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:50.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:51.820 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:51.821 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:52.819 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:52.820 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:53.820 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:53.821 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:54.820 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:54.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:55.821 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:55.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:56.821 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:56.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:57.821 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:57.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:58.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:53:58.823 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:59.822 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:53:59.823 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:00.824 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:00.824 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:01.820 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:01.822 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:02.823 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:02.824 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:03.824 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:03.824 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:04.825 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:04.826 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:05.825 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:05.825 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:06.827 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:06.828 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:07.830 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:07.830 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:08.829 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:08.829 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:09.828 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:09.828 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:10.829 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:10.831 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:11.829 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:11.830 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:12.830 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:12.832 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:13.830 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:13.832 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:14.831 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:14.832 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:15.832 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:15.833 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:16.833 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:16.834 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:17.832 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:17.832 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:18.833 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:18.834 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:19.834 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:19.835 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:20.834 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:20.835 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:21.836 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:21.836 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:22.836 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:22.837 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:23.836 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:23.837 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:24.837 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:24.839 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:25.838 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:25.839 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:26.838 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:26.839 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:27.839 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:27.840 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:28.839 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:28.840 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:29.839 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:29.839 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:30.842 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:30.844 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:31.841 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:31.841 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:32.840 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:32.841 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:33.841 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:33.842 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:34.842 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:34.843 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:35.843 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:35.846 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:36.844 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:36.845 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:37.844 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:37.846 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:38.845 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:38.845 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:39.846 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:39.847 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:40.848 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:40.848 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:41.847 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:41.848 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:42.849 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:42.851 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:43.847 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:43.849 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:44.850 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:44.850 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:45.849 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:45.850 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:46.850 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:46.851 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:47.851 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:47.851 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:48.850 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:48.852 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:49.851 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:49.852 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:50.852 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:50.854 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:51.886 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:51.887 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:52.853 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:52.853 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:53.855 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:53.856 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:54.855 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:54.856 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:55.857 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:55.856 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:56.854 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:56.855 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:57.859 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:57.860 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:58.859 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:54:58.860 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:59.859 +0530 [V]  - Music active, INFO
+2025-03-08T12:54:59.859 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:00.859 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:00.860 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:01.858 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:01.859 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:02.860 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:02.860 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:03.859 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:03.859 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:04.861 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:04.861 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:05.861 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:05.863 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:06.863 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:06.864 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:07.862 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:07.863 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:08.864 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:08.865 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:09.864 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:09.865 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:10.863 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:10.864 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:11.867 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:11.867 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:12.866 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:12.867 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:13.869 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:13.870 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:14.869 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:14.870 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:15.868 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:15.869 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:16.868 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:16.868 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:17.870 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:17.870 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:18.870 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:18.871 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:19.871 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:19.872 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:20.872 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:20.872 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:21.873 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:21.873 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:22.874 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:22.875 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:23.875 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:23.876 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:24.877 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:24.877 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:25.875 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:25.876 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:26.877 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:26.877 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:27.879 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:27.880 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:28.881 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:28.881 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:29.881 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:29.882 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:30.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:30.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:31.882 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:31.883 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:32.882 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:32.882 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:33.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:33.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:34.885 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:34.886 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:35.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:35.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:36.886 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:36.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:37.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:37.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:38.888 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:38.889 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:39.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:39.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:40.889 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:40.889 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:41.889 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:41.891 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:42.886 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:42.886 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:43.888 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:43.888 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:44.886 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:44.887 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:45.888 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:45.889 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:46.887 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:46.887 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:47.890 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:47.890 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:48.889 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:48.890 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:49.889 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:49.889 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:50.890 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:50.892 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:51.889 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:51.889 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:52.892 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:52.891 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:53.892 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:53.892 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:54.896 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:54.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:55.896 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:55.896 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:56.894 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:56.896 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:57.896 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:57.896 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:58.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:58.899 +0530 [V]  - Music active, INFO
+2025-03-08T12:55:59.897 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:55:59.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:00.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:00.899 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:01.899 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:01.899 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:02.900 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:02.901 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:03.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:03.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:04.899 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:04.899 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:05.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:05.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:06.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:06.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:07.898 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:07.898 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:08.900 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:08.900 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:09.900 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:09.900 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:10.901 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:10.901 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:11.901 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:11.901 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:12.905 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:12.906 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:13.905 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:13.906 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:14.905 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:14.906 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:15.904 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:15.905 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:16.907 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:16.908 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:17.909 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:17.910 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:18.908 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:18.908 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:19.910 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:19.911 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:20.910 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:20.910 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:21.910 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:21.910 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:22.913 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:22.913 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:23.913 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:23.914 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:24.914 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:24.915 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:25.914 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:25.914 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:26.917 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:26.917 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:27.916 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:27.917 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:28.915 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:28.916 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:29.920 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:29.921 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:30.916 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:30.916 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:31.918 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:31.919 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:32.916 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:32.916 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:33.919 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:33.919 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:34.921 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:34.922 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:35.920 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:35.921 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:36.919 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:36.920 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:37.921 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:37.921 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:38.923 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:38.924 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:39.924 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:39.925 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:40.924 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:40.925 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:41.924 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:41.924 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:42.925 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:42.926 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:43.927 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:43.928 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:44.928 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:44.929 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:45.925 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:45.926 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:46.932 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:46.933 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:47.928 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:47.930 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:48.930 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:48.931 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:49.933 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:49.934 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:50.933 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:50.934 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:51.930 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:51.930 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:52.936 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:52.937 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:53.933 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:53.935 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:54.932 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:54.933 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:55.937 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:55.938 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:56.937 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:56.938 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:57.938 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:57.939 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:58.938 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:58.939 +0530 [V]  - Music active, INFO
+2025-03-08T12:56:59.938 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:56:59.938 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:00.939 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:00.940 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:01.940 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:01.940 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:02.937 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:02.938 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:03.940 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:03.941 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:04.937 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:04.937 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:05.940 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:05.941 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:06.942 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:06.943 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:07.943 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:07.944 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:08.944 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:08.945 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:09.943 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:09.944 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:10.944 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:10.945 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:11.944 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:11.945 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:12.944 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:12.946 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:13.945 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:13.946 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:14.949 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:14.949 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:15.947 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:15.947 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:16.947 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:16.946 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:17.947 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:17.948 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:18.948 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:18.949 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:19.949 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:19.950 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:20.949 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:20.949 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:21.948 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:21.950 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:22.950 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:22.951 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:23.950 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:23.950 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:24.951 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:24.952 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:25.951 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:25.953 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:26.952 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:26.953 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:27.952 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:27.953 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:28.952 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:28.954 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:29.951 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:29.952 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:30.954 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:30.955 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:31.955 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:31.956 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:32.954 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:32.956 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:33.955 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:33.956 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:34.955 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:34.956 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:35.956 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:35.957 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:36.958 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:36.959 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:37.956 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:37.957 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:38.957 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:38.958 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:39.957 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:39.957 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:40.959 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:40.959 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:41.960 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:41.961 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:42.960 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:42.961 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:43.962 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:43.962 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:44.960 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:44.961 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:45.961 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:45.962 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:46.963 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:46.964 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:47.962 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:47.963 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:48.962 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:48.962 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:49.961 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:49.962 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:50.964 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:50.965 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:51.965 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:51.967 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:52.965 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:52.966 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:53.966 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:53.966 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:54.967 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:54.968 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:55.967 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:55.968 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:56.967 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:56.967 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:57.969 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:57.970 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:58.967 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:58.968 +0530 [V]  - Music active, INFO
+2025-03-08T12:57:59.970 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:57:59.971 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:00.973 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:00.973 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:01.973 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:01.974 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:02.972 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:02.971 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:03.973 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:03.974 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:04.974 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:04.975 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:05.976 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:05.976 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:06.977 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:06.978 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:07.979 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:07.980 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:08.979 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:08.981 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:09.979 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:09.980 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:10.981 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:10.982 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:11.981 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:11.982 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:12.980 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:12.980 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:13.981 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:13.981 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:14.981 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:14.982 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:15.982 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:15.982 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:16.985 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:16.986 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:17.987 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:17.987 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:18.985 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:18.987 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:19.986 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:19.987 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:20.986 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:20.986 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:21.986 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:21.989 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:22.987 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:22.988 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:23.988 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:23.990 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:24.991 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:24.991 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:25.989 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:25.990 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:26.990 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:26.992 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:27.991 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:27.993 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:28.992 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:28.993 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:29.995 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:29.995 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:30.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:30.994 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:31.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:31.995 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:32.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:32.994 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:33.994 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:33.995 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:34.994 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:34.994 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:35.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:35.995 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:36.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:36.994 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:37.993 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:37.994 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:38.994 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:38.995 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:39.995 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:39.996 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:40.996 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:40.996 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:41.996 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:41.997 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:43.001 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:43.002 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:44.002 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:44.003 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:45.000 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:45.001 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:46.003 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:46.004 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:47.004 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:47.005 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:48.004 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:48.005 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:49.005 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:49.006 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:50.005 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:50.006 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:51.005 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:51.007 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:52.006 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:52.007 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:53.006 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:53.007 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:54.007 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:54.007 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:55.006 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:55.006 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:56.008 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:56.008 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:57.008 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:57.009 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:58.009 +0530 [V]  - Music active, INFO
+2025-03-08T12:58:58.009 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:59.009 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:58:59.010 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:00.013 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:00.014 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:01.010 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:01.011 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:02.011 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:02.012 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:03.012 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:03.013 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:04.013 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:04.014 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:05.013 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:05.013 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:06.017 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:06.018 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:07.014 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:07.015 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:08.014 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:08.015 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:09.015 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:09.016 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:10.017 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:10.018 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:11.018 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:11.018 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:12.020 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:12.021 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:13.018 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:13.019 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:14.018 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:14.019 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:15.019 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:15.020 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:16.019 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:16.020 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:17.020 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:17.022 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:17.942 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:17.943 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:18.026 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:18.027 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:18.066 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:59:18.067 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:59:18.069 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:18.070 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:18.298 +0530 [V]  - lastNotificationReceivedTime = 1741418958298, INFO
+2025-03-08T12:59:18.301 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T12:59:18.303 +0530 [V]  - Music filters passed, INFO
+2025-03-08T12:59:18.305 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T12:59:18.306 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T12:59:18.308 +0530 [V]  - Music playing from media.music.musicplayer, INFO
+2025-03-08T12:59:18.309 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T12:59:20.031 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:20.031 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:21.031 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:21.031 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:22.035 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:22.035 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:23.034 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:23.035 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:24.032 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:24.032 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:25.035 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:25.035 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:26.033 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:26.033 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:27.035 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:27.036 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:28.034 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:28.035 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:29.039 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:29.039 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:30.038 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:30.039 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:31.040 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:31.041 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:32.039 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:32.040 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:33.038 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:33.039 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:34.038 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:34.039 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:35.040 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:35.040 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:36.042 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:36.043 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:37.040 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:37.041 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:38.042 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:38.043 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:39.043 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:39.044 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:40.044 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:40.045 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:41.045 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:41.047 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:42.045 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:42.046 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:43.045 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:43.047 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:44.045 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:44.045 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:45.047 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:45.047 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:46.047 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:46.048 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:47.047 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:47.048 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:48.048 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:48.050 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:49.048 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:49.049 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:50.050 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:50.051 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:51.051 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:51.051 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:52.051 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:52.052 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:53.054 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:53.055 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:54.050 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:54.052 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:55.050 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:55.051 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:56.052 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:56.053 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:57.053 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:57.054 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:58.054 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:58.055 +0530 [V]  - Music active, INFO
+2025-03-08T12:59:59.055 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T12:59:59.056 +0530 [V]  - Music active, INFO

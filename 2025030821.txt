@@ -1,0 +1,569 @@
+2025-03-08T21:00:37.728 +0530 [V]  - lastNotificationReceivedTime = 1741447837727, INFO
+2025-03-08T21:00:37.729 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:00:37.731 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:00:37.732 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:00:37.733 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:00:37.733 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:00:37.740 +0530 [V]  - Notification: id-1476226694 sent to linwear, INFO
+2025-03-08T21:06:18.521 +0530 [V]  - lastNotificationReceivedTime = 1741448178520, INFO
+2025-03-08T21:06:18.523 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:06:18.526 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:06:18.528 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:06:18.529 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:06:18.529 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:06:18.539 +0530 [V]  - Notification: id-0 sent to linwear, INFO
+2025-03-08T21:07:01.314 +0530 [V]  - lastNotificationReceivedTime = 1741448221314, INFO
+2025-03-08T21:07:01.316 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:07:01.318 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:07:01.319 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:07:01.321 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:07:01.322 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:07:01.354 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T21:09:23.717 +0530 [V]  - lastNotificationReceivedTime = 1741448363716, INFO
+2025-03-08T21:09:23.719 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:09:23.723 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:09:23.726 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:09:23.727 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:09:23.727 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:09:23.734 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T21:12:49.523 +0530 [V]  - lastNotificationReceivedTime = 1741448569523, INFO
+2025-03-08T21:12:49.526 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:12:49.536 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:12:49.540 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:12:49.547 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:12:49.549 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:12:49.570 +0530 [V]  - Notification: id--1953694544 sent to linwear, INFO
+2025-03-08T21:14:59.266 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:14:59.271 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:14:59.272 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:14:59.273 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:14:59.274 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:15:00.500 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:15:00.502 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:15:00.503 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:15:00.505 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:15:00.508 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:15:00.509 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:15:00.510 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:15:00.511 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:15:00.512 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:15:00.513 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:15:00.515 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:15:00.517 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:15:00.520 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:15:00.522 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:15:00.522 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:15:00.524 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:15:00.526 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:15:00.528 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:15:00.529 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T21:15:00.529 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:19:38.220 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:19:38.226 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T21:19:38.227 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:19:41.330 +0530 [V]  - lastNotificationReceivedTime = 1741448981329, INFO
+2025-03-08T21:19:41.333 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:19:41.358 +0530 [V]  - Notification: id-17303299 sent to linwear, INFO
+2025-03-08T21:19:51.862 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:20:58.562 +0530 [V]  - lastNotificationReceivedTime = 1741449058561, INFO
+2025-03-08T21:20:58.564 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:20:58.573 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T21:20:59.634 +0530 [V]  - lastNotificationReceivedTime = 1741449059634, INFO
+2025-03-08T21:20:59.636 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:20:59.643 +0530 [V]  - Notification: id--1445021803, Duplicate Notification, package-org.telegram.messenger, title-Offers Point, text-Reebok Backpacks from Rs.441 Link: https://amzn.to/3F8pxEx, flags-16, INFO
+2025-03-08T21:21:19.774 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:21:19.774 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:19.798 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:19.804 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:19.831 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:19.831 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=null, INFO
+2025-03-08T21:21:20.819 +0530 [V]  - lastNotificationReceivedTime = 1741449080818, INFO
+2025-03-08T21:21:20.822 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:20.823 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:20.827 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:20.838 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:20.839 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:20.854 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-+91 79754 80730, text-Incoming call, flags-106, INFO
+2025-03-08T21:21:20.937 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-+91 79754 80730, text-Incoming call, flags-106, WARNING
+2025-03-08T21:21:21.137 +0530 [V]  - lastNotificationReceivedTime = 1741449081136, INFO
+2025-03-08T21:21:21.143 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:21.158 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:21.163 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:21.165 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:21.166 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:21.180 +0530 [V]  - lastNotificationReceivedTime = 1741449081180, INFO
+2025-03-08T21:21:21.199 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:21.218 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:21.223 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:21.233 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:21.236 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:21.247 +0530 [V]  - lastNotificationReceivedTime = 1741449081240, INFO
+2025-03-08T21:21:21.250 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:21.255 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:21.268 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:21.276 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:21.276 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:21.297 +0530 [V]  - Notification: id-2131367339 sent to linwear, INFO
+2025-03-08T21:21:21.327 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-+91 79754 80730, text-Incoming call, flags-106, INFO
+2025-03-08T21:21:21.328 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-+91 79754 80730, text-Incoming call, flags-106, WARNING
+2025-03-08T21:21:21.337 +0530 [V]  - Notification: id-1, Third Party App Call package-com.sh.smart.caller, title-‎Aditya A Bnmit‎, text-Incoming call, flags-106, INFO
+2025-03-08T21:21:21.339 +0530 [V]  - Cancelling Notification: id-1, Third Party App Call Considering as GSM call package-com.sh.smart.caller, title-‎Aditya A Bnmit‎, text-Incoming call, flags-106, WARNING
+2025-03-08T21:21:22.679 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:22.682 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:22.686 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:22.687 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:22.688 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:22.855 +0530 [V]  - lastNotificationReceivedTime = 1741449082854, INFO
+2025-03-08T21:21:22.856 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:22.858 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:22.860 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:22.862 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:22.862 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:23.962 +0530 [V]  - lastNotificationReceivedTime = 1741449083961, INFO
+2025-03-08T21:21:23.964 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:23.967 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:23.969 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:23.970 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:23.971 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:42.728 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:42.729 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:42.730 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:42.731 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:42.731 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:58.505 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:21:58.509 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:21:58.511 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T21:21:58.513 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T21:21:58.514 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:21:58.722 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:27:41.990 +0530 [V]  - lastNotificationReceivedTime = 1741449461989, INFO
+2025-03-08T21:27:41.994 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:27:42.007 +0530 [V]  - Notification: id--49572251 sent to linwear, INFO
+2025-03-08T21:31:09.025 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:36:19.029 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:36:19.033 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:36:19.033 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:36:19.038 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:36:19.041 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T21:36:19.040 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T21:36:19.043 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T21:36:19.045 +0530 [V]  - Music active, INFO
+2025-03-08T21:36:19.045 +0530 [V]  - Music playing from com.google.android.youtube, INFO
+2025-03-08T21:36:21.191 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T21:36:21.191 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:36:21.200 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T21:36:21.200 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T21:36:21.200 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T21:36:21.201 +0530 [V]  - Music active, INFO
+2025-03-08T21:36:21.204 +0530 [V]  - Music playing from com.google.android.youtube, INFO
+2025-03-08T21:36:21.197 +0530 [V]  - Music filters passed, INFO
+2025-03-08T21:36:24.192 +0530 [V]  - Music active, INFO
+2025-03-08T21:36:24.192 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T21:36:24.303 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T21:36:24.315 +0530 [V]  - Music active, INFO
+2025-03-08T21:36:25.939 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T21:36:25.939 +0530 [V]  - Music active, INFO
+2025-03-08T21:36:26.357 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T21:36:26.364 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:36:26.364 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T21:47:15.823 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:47:15.812 +0530 [V]  - lastNotificationReceivedTime = 1741450635810, INFO
+2025-03-08T21:47:17.319 +0530 [V]  - lastNotificationReceivedTime = 1741450637319, INFO
+2025-03-08T21:47:17.323 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:48:48.857 +0530 [V]  - lastNotificationReceivedTime = 1741450728855, INFO
+2025-03-08T21:48:48.858 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:48:48.892 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T21:48:58.127 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:53:47.383 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:53:47.385 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:53:49.279 +0530 [V]  - lastNotificationReceivedTime = 1741451029277, INFO
+2025-03-08T21:53:49.286 +0530 [V]  - lastNotificationReceivedTime = 1741451029286, INFO
+2025-03-08T21:53:49.287 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:53:49.288 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:04.316 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:56:04.332 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:56:04.332 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.340 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/articles, INFO
+2025-03-08T21:56:04.341 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.352 +0530 [V]  - --> GET https://cdn-wearables.titan.in/banners/custom/fastrack/20250308.json, INFO
+2025-03-08T21:56:04.353 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.380 +0530 [V]  - Titan Dashboard DefaultMessageAppID:com.transsion.smartmessage, INFO
+2025-03-08T21:56:04.382 +0530 [V]  - Titan Dashboard DefaultCallAppID:com.sh.smart.caller, INFO
+2025-03-08T21:56:04.384 +0530 [V]  - CONNECTION_DEBUG bound service is null calling resume method manually, INFO
+2025-03-08T21:56:04.385 +0530 [V]  - NOTIFICATION_BINDING Dash method called, INFO
+2025-03-08T21:56:04.385 +0530 [V]  - NOTIFICATION_BINDING Dash method called listener activated, INFO
+2025-03-08T21:56:04.385 +0530 [V]  - NOTIFICATION_BINDING notification is active no need request rebind, INFO
+2025-03-08T21:56:04.388 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.388 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/strava/info, INFO
+2025-03-08T21:56:04.404 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.406 +0530 [V]  - messageIndex: 1, INFO
+2025-03-08T21:56:04.406 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.407 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.408 +0530 [V]  - messageIndex: 2, INFO
+2025-03-08T21:56:04.409 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.409 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.411 +0530 [V]  - messageIndex: 3, INFO
+2025-03-08T21:56:04.411 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.411 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.414 +0530 [V]  - messageIndex: 4, INFO
+2025-03-08T21:56:04.414 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.414 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.416 +0530 [V]  - messageIndex: 5, INFO
+2025-03-08T21:56:04.417 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.418 +0530 [V]  - nudge data: NudgeData(event=SYNC_WATCH, type=NOTIFICATION, context=null, frequency=[SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY], trigger=TriggerData(type=time, at=18:00, image=null, prompt=null, actionText=null, actionData=null), messages=[MessageData(title=Sync Your Watch!, description=Don't forget to sync your watch to stay updated with your data.), MessageData(title=Stay Current!, description=Sync your watch now to ensure you're up-to-date with all your information.), MessageData(title=Stay Ahead!, description=Sync your watch regularly to maintain a seamless experience and maximize its capabilities.), MessageData(title=Sync Alert!, description=It's time to sync your watch! Take a moment now to ensure everything is up-to-date.)], weight=null, maxRepetitions=null), INFO
+2025-03-08T21:56:04.418 +0530 [V]  - messageIndex: 6, INFO
+2025-03-08T21:56:04.419 +0530 [V]  - Nudges Scheduled at 18:00, INFO
+2025-03-08T21:56:04.438 +0530 [V]  - HomeFragment Sync NONE, INFO
+2025-03-08T21:56:04.472 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/medications/careseekers/v2?date=2025-03-08&time=21%3A56&tz=19800000, INFO
+2025-03-08T21:56:04.472 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.473 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:56:04.474 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:04.474 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:56:04.671 +0530 [V]  - ReflexService:  dateAndTimeChanged false, INFO
+2025-03-08T21:56:04.674 +0530 [V]  - ReflexService: Call Receiver Registered. Permissions are enabled., INFO
+2025-03-08T21:56:04.680 +0530 [V]  - Connect Request: didUserDisconnect(false), INFO
+2025-03-08T21:56:04.681 +0530 [V]  - SDK B2:31:65:97:50:12, FT_38086 sdkWearable exists: false, INFO
+2025-03-08T21:56:04.681 +0530 [V]  - connect B2:31:65:97:50:12, FT_38086 sdkWearable exists: false, INFO
+2025-03-08T21:56:04.682 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE listener added, INFO
+2025-03-08T21:56:04.682 +0530 [V]  - address is empty, INFO
+2025-03-08T21:56:04.730 +0530 [V]  - Titan DashboardToken: fxFfjSCbSFisHYDkuk_eES:APA91bFvrtz-821DCGfkP7PZgBLhkRgbm4f5mRl__85NyL1tWE6DnCD01e9l2yVnRBIukYUOjYovyMbdCHp3_FPRR3XOkNj3VrxAj1jjMTuBNZU2McwG34swn7XZ-ivS5hASqm0YkXTD, INFO
+2025-03-08T21:56:04.734 +0530 [V]  - Last Location: 12.9347946:77.5347071, INFO
+2025-03-08T21:56:04.821 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T21:56:04.842 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T21:56:04.846 +0530 [V]  - Titan DashboardDFU : Checking FOTA Status, INFO
+2025-03-08T21:56:04.847 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:04.884 +0530 [V]  - CONNECTION_DEBUG bound service is not null connecting, INFO
+2025-03-08T21:56:04.884 +0530 [V]  - Connect Request: didUserDisconnect(false), INFO
+2025-03-08T21:56:04.885 +0530 [V]  - SDK B2:31:65:97:50:12, FT_38086 sdkWearable exists: true, INFO
+2025-03-08T21:56:04.885 +0530 [V]  - connect B2:31:65:97:50:12, FT_38086 sdkWearable exists: true, INFO
+2025-03-08T21:56:04.885 +0530 [V]  - address is not empty, INFO
+2025-03-08T21:56:04.906 +0530 [V]  - lastNotificationReceivedTime = 1741451164906, INFO
+2025-03-08T21:56:04.907 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:04.911 +0530 [V]  - lastNotificationReceivedTime = 1741451164910, INFO
+2025-03-08T21:56:04.912 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:05.895 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:07.901 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 08, 2025 21:56:07","type":"DEVICE_INFO"}, INFO
+2025-03-08T21:56:07.906 +0530 [V]  - LWGetDeviceInfo Linwear get device info Command, INFO
+2025-03-08T21:56:07.969 +0530 [V]  - SYNC_DEBUG:ADD Command Added: DEVICE_INFO null, INFO
+2025-03-08T21:56:07.969 +0530 [V]  - SYNC_DEBUG:ADD Command Added: BATTERY null, INFO
+2025-03-08T21:56:07.970 +0530 [V]  - SYNC_DEBUG:ADD Command Added: TIME SET, INFO
+2025-03-08T21:56:07.970 +0530 [V]  - SYNC_DEBUG:ADD Command Added: TIME_FORMAT null, INFO
+2025-03-08T21:56:07.971 +0530 [V]  - SYNC_DEBUG:ADD Command Added: USER_INFO SET, INFO
+2025-03-08T21:56:07.971 +0530 [V]  - SYNC_DEBUG:ADD Command Added: QUICK_REPLY null, INFO
+2025-03-08T21:56:07.972 +0530 [V]  - SYNC_DEBUG:ADD Command Added: STEPS ALL, INFO
+2025-03-08T21:56:07.973 +0530 [V]  - SYNC_DEBUG:ADD Command Added: SLEEP ALL, INFO
+2025-03-08T21:56:07.973 +0530 [V]  - SYNC_DEBUG:ADD Command Added: SPO2 ALL, INFO
+2025-03-08T21:56:07.974 +0530 [V]  - SYNC_DEBUG:ADD Command Added: HEART_RATE ALL, INFO
+2025-03-08T21:56:07.974 +0530 [V]  - SYNC_DEBUG:ADD Command Added: STRESS ALL, INFO
+2025-03-08T21:56:07.974 +0530 [V]  - SYNC_DEBUG:ADD Command Added: MULTI_SPORT_DATA ALL, INFO
+2025-03-08T21:56:07.975 +0530 [V]  - SYNC_DEBUG:ADD Command Added: MY_CYCLE null, INFO
+2025-03-08T21:56:07.976 +0530 [V]  - SyncStateReceiver Sync true, INFO
+2025-03-08T21:56:08.446 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE device info:HardWareInfo{bodyVersion=16777216, hardWareTag='240229', deviceMac='B23165975012', hardwareVersion='B-V1.01', firmwareVersion='V0.24', agreementVersion='v1.0', deviceName='FT_38086_5012', sn='0000', updateTime='2022/11/01  ��,o', adapterNum='3101', deviceId=0, deviceWidth=410, deviceHigh=502, thumbnailWidth=300, thumbnailHigh=367, dialShape=0, uiVersion='3101-04', pushSportNum=4}, INFO
+2025-03-08T21:56:08.447 +0530 [V]  - RLWGetDeviceInfo, LWDeviceInfo(firmwareVersion=V0.24, batteryPercentage=0, dialWidth=410, dialHeight=502, previewWidth=300, previewHeight=367, dialShape=0), INFO
+2025-03-08T21:56:08.451 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: DEVICE_INFO null, INFO
+2025-03-08T21:56:08.453 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"BATTERY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"TIME"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"TIME_FORMAT"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"USER_INFO"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"QUICK_REPLY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:08.454 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 08, 2025 21:56:07","type":"BATTERY"}, INFO
+2025-03-08T21:56:08.456 +0530 [V]  - LWGetDeviceBattery Linwear get battery, INFO
+2025-03-08T21:56:08.456 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE greater than 2 min calling battery command, INFO
+2025-03-08T21:56:08.456 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE get battery called, INFO
+2025-03-08T21:56:08.891 +0530 [V]  - LinwearCommandManager:  Linwear get battery {"a":68,"b":0}, INFO
+2025-03-08T21:56:08.891 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE fss sucess commmanger {"a":68,"b":0}, INFO
+2025-03-08T21:56:08.892 +0530 [V]  - RLWGetDeviceBattery, LWDeviceInfo(firmwareVersion=, batteryPercentage=68, dialWidth=0, dialHeight=0, previewWidth=0, previewHeight=0, dialShape=0), INFO
+2025-03-08T21:56:08.893 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: BATTERY null, INFO
+2025-03-08T21:56:08.895 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"TIME"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"TIME_FORMAT"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"USER_INFO"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"QUICK_REPLY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:08.896 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 08, 2025 21:56:07","type":"TIME"}, INFO
+2025-03-08T21:56:09.265 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: TIME SET, INFO
+2025-03-08T21:56:09.268 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"TIME_FORMAT"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"USER_INFO"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"QUICK_REPLY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:09.269 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 08, 2025 21:56:07","type":"TIME_FORMAT"}, INFO
+2025-03-08T21:56:09.294 +0530 [V]  - LWSetTimeCommand.class, true, INFO
+2025-03-08T21:56:09.295 +0530 [V]  - LWSetTimeFormat Linwear Unit system Command, INFO
+2025-03-08T21:56:10.766 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: TIME_FORMAT null, INFO
+2025-03-08T21:56:10.768 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"USER_INFO"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"QUICK_REPLY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:10.769 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"SET","timeStamp":"Mar 08, 2025 21:56:07","type":"USER_INFO"}, INFO
+2025-03-08T21:56:10.773 +0530 [V]  - LWSetTimeFormat Linwear Unit system Command, INFO
+2025-03-08T21:56:10.784 +0530 [V]  - TLWTimeFormat, true, INFO
+2025-03-08T21:56:11.516 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: USER_INFO SET, INFO
+2025-03-08T21:56:11.518 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"QUICK_REPLY"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:11.519 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 08, 2025 21:56:07","type":"QUICK_REPLY"}, INFO
+2025-03-08T21:56:11.532 +0530 [V]  - RLWSetUserInfoCommand.class, true, INFO
+2025-03-08T21:56:11.533 +0530 [V]  - LWSetQuickReplyCommand.class: : processCommand() quickReplyMessages = ["I\u0027ll call you back","Can\u0027t talk now. call me later?","I\u0027m on my way","I can\u0027t answer right now","In meeting will call you later"], INFO
+2025-03-08T21:56:14.349 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:14.351 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/feedback, INFO
+2025-03-08T21:56:14.352 +0530 [V]  - titan-feedback-version: 2.0, INFO
+2025-03-08T21:56:14.352 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:14.355 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:14.357 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:14.357 +0530 [V]  - --> GET https://wearables.titan.in/svc/weather/v2?lon=77.5347071&key=22b9d9df-c50f-4d38-9ac8-e4fec6a5235d&lat=12.9347946, INFO
+2025-03-08T21:56:14.358 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:14.365 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "cdn-wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:14.884 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: QUICK_REPLY null, INFO
+2025-03-08T21:56:14.886 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STEPS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:14.886 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"STEPS"}, INFO
+2025-03-08T21:56:14.889 +0530 [V]  - LWSetQuickReplyCommand.class: : processCommand() quickReplyMessages = ["I\u0027ll call you back","Can\u0027t talk now. call me later?","I\u0027m on my way","I can\u0027t answer right now","In meeting will call you later"], INFO
+2025-03-08T21:56:14.901 +0530 [V]  - RLWSetQuickReplyCommand.class, true, INFO
+2025-03-08T21:56:15.212 +0530 [V]  - HomeFragment Sync IN_PROGRESS, INFO
+2025-03-08T21:56:15.218 +0530 [V]  - Points Error: {"code":0,"description":"Unable to resolve host \"wearables.titan.in\": No address associated with hostname","recommendation":"Something went wrong. Try again."}, INFO
+2025-03-08T21:56:15.302 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/medications/careseekers/v2?date=2025-03-08&time=21%3A56&tz=19800000, INFO
+2025-03-08T21:56:15.302 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:56:15.303 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:15.305 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:15.310 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:56:15.310 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:15.313 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:15.448 +0530 [V]  - Points Error: {"code":0,"description":"Unable to resolve host \"wearables.titan.in\": No address associated with hostname","recommendation":"Something went wrong. Try again."}, INFO
+2025-03-08T21:56:15.448 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:15.449 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:15.451 +0530 [V]  - Titan DashboardDFU : Checking FOTA Status, INFO
+2025-03-08T21:56:15.469 +0530 [V]  - getFeatureConfig {"message_agree":"","button_text_agree":"Yes","button_text_decline":"No","message_default":"","consent_prompt_title":"Wellness Program","message_decline":"","consent_status":"NO_DATA","display_consent_prompt":true,"display_name":"Wellness Program","group_name":""}, INFO
+2025-03-08T21:56:15.667 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:15.667 +0530 [V]  - lastNotificationReceivedTime = 1741451175666, INFO
+2025-03-08T21:56:15.667 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:15.667 +0530 [V]  - lastNotificationReceivedTime = 1741451175665, INFO
+2025-03-08T21:56:17.014 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 20:00:00 GMT+05:30 2025, {"a":1741275000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 22:00:00 GMT+05:30 2025, {"a":1741282200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 21:00:00 GMT+05:30 2025, {"a":1741278600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.014 +0530 [V]  - LWStepsCommand.class: Raw details: processData called, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 04:00:00 GMT+05:30 2025, {"a":1741303800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 23:00:00 GMT+05:30 2025, {"a":1741285800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 02:00:00 GMT+05:30 2025, {"a":1741296600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 03:00:00 GMT+05:30 2025, {"a":1741300200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.015 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 06:00:00 GMT+05:30 2025, {"a":1741311000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.016 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 07:00:00 GMT+05:30 2025, {"a":1741314600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.016 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 08:00:00 GMT+05:30 2025, {"a":1741318200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.016 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 09:00:00 GMT+05:30 2025, {"a":1741321800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.016 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 10:00:00 GMT+05:30 2025, {"a":1741325400,"b":0,"c":1841,"d":37,"e":1242}, INFO
+2025-03-08T21:56:17.017 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 11:00:00 GMT+05:30 2025, {"a":1741329000,"b":0,"c":1907,"d":38,"e":1287}, INFO
+2025-03-08T21:56:17.017 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 12:00:00 GMT+05:30 2025, {"a":1741332600,"b":0,"c":1914,"d":38,"e":1291}, INFO
+2025-03-08T21:56:17.017 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 13:00:00 GMT+05:30 2025, {"a":1741336200,"b":0,"c":1914,"d":38,"e":1291}, INFO
+2025-03-08T21:56:17.017 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 14:00:00 GMT+05:30 2025, {"a":1741339800,"b":0,"c":2203,"d":44,"e":1487}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 01:00:00 GMT+05:30 2025, {"a":1741293000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 05:00:00 GMT+05:30 2025, {"a":1741307400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 00:00:00 GMT+05:30 2025, {"a":1741289400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 16:00:00 GMT+05:30 2025, {"a":1741347000,"b":0,"c":2717,"d":54,"e":1833}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 15:00:00 GMT+05:30 2025, {"a":1741343400,"b":0,"c":2597,"d":52,"e":1752}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 18:00:00 GMT+05:30 2025, {"a":1741354200,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.018 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 17:00:00 GMT+05:30 2025, {"a":1741350600,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.019 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 19:00:00 GMT+05:30 2025, {"a":1741357800,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.019 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 20:00:00 GMT+05:30 2025, {"a":1741361400,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.019 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 22:00:00 GMT+05:30 2025, {"a":1741368600,"b":0,"c":4716,"d":95,"e":3183}, INFO
+2025-03-08T21:56:17.019 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 21:00:00 GMT+05:30 2025, {"a":1741365000,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.020 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 00:00:00 GMT+05:30 2025, {"a":1741375800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.020 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 01:00:00 GMT+05:30 2025, {"a":1741379400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.020 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 02:00:00 GMT+05:30 2025, {"a":1741383000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.020 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 03:00:00 GMT+05:30 2025, {"a":1741386600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.021 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 04:00:00 GMT+05:30 2025, {"a":1741390200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.021 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 05:00:00 GMT+05:30 2025, {"a":1741393800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.021 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 06:00:00 GMT+05:30 2025, {"a":1741397400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.021 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 07:00:00 GMT+05:30 2025, {"a":1741401000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.022 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 08:00:00 GMT+05:30 2025, {"a":1741404600,"b":0,"c":610,"d":12,"e":411}, INFO
+2025-03-08T21:56:17.022 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 09:00:00 GMT+05:30 2025, {"a":1741408200,"b":0,"c":610,"d":12,"e":411}, INFO
+2025-03-08T21:56:17.022 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 10:00:00 GMT+05:30 2025, {"a":1741411800,"b":0,"c":658,"d":13,"e":444}, INFO
+2025-03-08T21:56:17.022 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 11:00:00 GMT+05:30 2025, {"a":1741415400,"b":0,"c":988,"d":19,"e":666}, INFO
+2025-03-08T21:56:17.023 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 13:00:00 GMT+05:30 2025, {"a":1741422600,"b":0,"c":1800,"d":36,"e":1215}, INFO
+2025-03-08T21:56:17.023 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 12:00:00 GMT+05:30 2025, {"a":1741419000,"b":0,"c":1592,"d":32,"e":1074}, INFO
+2025-03-08T21:56:17.023 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 14:00:00 GMT+05:30 2025, {"a":1741426200,"b":0,"c":2045,"d":41,"e":1380}, INFO
+2025-03-08T21:56:17.023 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 15:00:00 GMT+05:30 2025, {"a":1741429800,"b":0,"c":2057,"d":41,"e":1388}, INFO
+2025-03-08T21:56:17.024 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 16:00:00 GMT+05:30 2025, {"a":1741433400,"b":0,"c":2851,"d":57,"e":1924}, INFO
+2025-03-08T21:56:17.024 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 17:00:00 GMT+05:30 2025, {"a":1741437000,"b":0,"c":3068,"d":62,"e":2070}, INFO
+2025-03-08T21:56:17.024 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 18:00:00 GMT+05:30 2025, {"a":1741440600,"b":0,"c":3186,"d":64,"e":2150}, INFO
+2025-03-08T21:56:17.024 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 19:00:00 GMT+05:30 2025, {"a":1741444200,"b":0,"c":3198,"d":64,"e":2158}, INFO
+2025-03-08T21:56:17.024 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 20:00:00 GMT+05:30 2025, {"a":1741447800,"b":0,"c":4333,"d":87,"e":2924}, INFO
+2025-03-08T21:56:17.025 +0530 [V]  - STEPS_DEBUG: Processed details: Thu Mar 06 00:00:00 GMT+05:30 2025, {"date":"Mar 06, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741271400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741275000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741278600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741282200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0}},"totalActiveTime":0,"totalCalories":0,"totalDistance":0,"totalSteps":0}, INFO
+2025-03-08T21:56:17.026 +0530 [V]  - STEPS_DEBUG: Processed details: Fri Mar 07 00:00:00 GMT+05:30 2025, {"date":"Mar 07, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741285800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741289400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741293000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741296600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741300200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741303800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741307400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741311000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741314600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741318200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741321800000":{"activeTime":0,"calories":37,"distance":1242,"isBandWorn":true,"mode":"NONE","steps":1841},"1741325400000":{"activeTime":0,"calories":1,"distance":45,"isBandWorn":true,"mode":"NONE","steps":66},"1741329000000":{"activeTime":0,"calories":0,"distance":4,"isBandWorn":true,"mode":"NONE","steps":7},"1741332600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741336200000":{"activeTime":0,"calories":6,"distance":196,"isBandWorn":true,"mode":"NONE","steps":289},"1741339800000":{"activeTime":0,"calories":8,"distance":265,"isBandWorn":true,"mode":"NONE","steps":394},"1741343400000":{"activeTime":0,"calories":2,"distance":81,"isBandWorn":true,"mode":"NONE","steps":120},"1741347000000":{"activeTime":0,"calories":40,"distance":1319,"isBandWorn":true,"mode":"NONE","steps":1953},"1741350600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741354200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741357800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741361400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741365000000":{"activeTime":0,"calories":1,"distance":31,"isBandWorn":true,"mode":"NONE","steps":46}},"totalActiveTime":0,"totalCalories":95,"totalDistance":3183,"totalSteps":4716}, INFO
+2025-03-08T21:56:17.026 +0530 [V]  - STEPS_DEBUG: Processed details: Sat Mar 08 00:00:00 GMT+05:30 2025, {"date":"Mar 08, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741372200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741375800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741379400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741383000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741386600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741390200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741393800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741397400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741401000000":{"activeTime":0,"calories":12,"distance":411,"isBandWorn":true,"mode":"NONE","steps":610},"1741404600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741408200000":{"activeTime":0,"calories":1,"distance":33,"isBandWorn":true,"mode":"NONE","steps":48},"1741411800000":{"activeTime":0,"calories":6,"distance":222,"isBandWorn":true,"mode":"NONE","steps":330},"1741415400000":{"activeTime":0,"calories":13,"distance":408,"isBandWorn":true,"mode":"NONE","steps":604},"1741419000000":{"activeTime":0,"calories":4,"distance":141,"isBandWorn":true,"mode":"NONE","steps":208},"1741422600000":{"activeTime":0,"calories":5,"distance":165,"isBandWorn":true,"mode":"NONE","steps":245},"1741426200000":{"activeTime":0,"calories":0,"distance":8,"isBandWorn":true,"mode":"NONE","steps":12},"1741429800000":{"activeTime":0,"calories":16,"distance":536,"isBandWorn":true,"mode":"NONE","steps":794},"1741433400000":{"activeTime":0,"calories":5,"distance":146,"isBandWorn":true,"mode":"NONE","steps":217},"1741437000000":{"activeTime":0,"calories":2,"distance":80,"isBandWorn":true,"mode":"NONE","steps":118},"1741440600000":{"activeTime":0,"calories":0,"distance":8,"isBandWorn":true,"mode":"NONE","steps":12},"1741444200000":{"activeTime":0,"calories":23,"distance":766,"isBandWorn":true,"mode":"NONE","steps":1135}},"totalActiveTime":0,"totalCalories":101,"totalDistance":3380,"totalSteps":5008}, INFO
+2025-03-08T21:56:17.027 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: STEPS ALL, INFO
+2025-03-08T21:56:17.028 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SLEEP"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:17.029 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"SLEEP"}, INFO
+2025-03-08T21:56:17.051 +0530 [V]  - LWStepsCommand.class: Raw details: processData called, INFO
+2025-03-08T21:56:17.051 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 20:00:00 GMT+05:30 2025, {"a":1741275000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.052 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 21:00:00 GMT+05:30 2025, {"a":1741278600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.052 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 22:00:00 GMT+05:30 2025, {"a":1741282200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.052 +0530 [V]  - STEPS_DEBUG: Raw details: Thu Mar 06 23:00:00 GMT+05:30 2025, {"a":1741285800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.052 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 00:00:00 GMT+05:30 2025, {"a":1741289400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.053 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 01:00:00 GMT+05:30 2025, {"a":1741293000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.053 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 02:00:00 GMT+05:30 2025, {"a":1741296600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.053 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 03:00:00 GMT+05:30 2025, {"a":1741300200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.054 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 04:00:00 GMT+05:30 2025, {"a":1741303800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.054 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 05:00:00 GMT+05:30 2025, {"a":1741307400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.054 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 06:00:00 GMT+05:30 2025, {"a":1741311000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.055 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 07:00:00 GMT+05:30 2025, {"a":1741314600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.055 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 08:00:00 GMT+05:30 2025, {"a":1741318200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.055 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 09:00:00 GMT+05:30 2025, {"a":1741321800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.056 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 10:00:00 GMT+05:30 2025, {"a":1741325400,"b":0,"c":1841,"d":37,"e":1242}, INFO
+2025-03-08T21:56:17.056 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 11:00:00 GMT+05:30 2025, {"a":1741329000,"b":0,"c":1907,"d":38,"e":1287}, INFO
+2025-03-08T21:56:17.056 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 12:00:00 GMT+05:30 2025, {"a":1741332600,"b":0,"c":1914,"d":38,"e":1291}, INFO
+2025-03-08T21:56:17.057 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 13:00:00 GMT+05:30 2025, {"a":1741336200,"b":0,"c":1914,"d":38,"e":1291}, INFO
+2025-03-08T21:56:17.057 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 14:00:00 GMT+05:30 2025, {"a":1741339800,"b":0,"c":2203,"d":44,"e":1487}, INFO
+2025-03-08T21:56:17.057 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 15:00:00 GMT+05:30 2025, {"a":1741343400,"b":0,"c":2597,"d":52,"e":1752}, INFO
+2025-03-08T21:56:17.057 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 16:00:00 GMT+05:30 2025, {"a":1741347000,"b":0,"c":2717,"d":54,"e":1833}, INFO
+2025-03-08T21:56:17.058 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 17:00:00 GMT+05:30 2025, {"a":1741350600,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.058 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 18:00:00 GMT+05:30 2025, {"a":1741354200,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.058 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 19:00:00 GMT+05:30 2025, {"a":1741357800,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.059 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 20:00:00 GMT+05:30 2025, {"a":1741361400,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.059 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 21:00:00 GMT+05:30 2025, {"a":1741365000,"b":0,"c":4670,"d":94,"e":3152}, INFO
+2025-03-08T21:56:17.059 +0530 [V]  - STEPS_DEBUG: Raw details: Fri Mar 07 22:00:00 GMT+05:30 2025, {"a":1741368600,"b":0,"c":4716,"d":95,"e":3183}, INFO
+2025-03-08T21:56:17.060 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 00:00:00 GMT+05:30 2025, {"a":1741375800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.060 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 02:00:00 GMT+05:30 2025, {"a":1741383000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.060 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 01:00:00 GMT+05:30 2025, {"a":1741379400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.061 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 03:00:00 GMT+05:30 2025, {"a":1741386600,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.061 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 04:00:00 GMT+05:30 2025, {"a":1741390200,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.061 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 05:00:00 GMT+05:30 2025, {"a":1741393800,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.061 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 06:00:00 GMT+05:30 2025, {"a":1741397400,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.062 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 07:00:00 GMT+05:30 2025, {"a":1741401000,"b":0,"c":0,"d":0,"e":0}, INFO
+2025-03-08T21:56:17.062 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 08:00:00 GMT+05:30 2025, {"a":1741404600,"b":0,"c":610,"d":12,"e":411}, INFO
+2025-03-08T21:56:17.062 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 09:00:00 GMT+05:30 2025, {"a":1741408200,"b":0,"c":610,"d":12,"e":411}, INFO
+2025-03-08T21:56:17.063 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 10:00:00 GMT+05:30 2025, {"a":1741411800,"b":0,"c":658,"d":13,"e":444}, INFO
+2025-03-08T21:56:17.063 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 11:00:00 GMT+05:30 2025, {"a":1741415400,"b":0,"c":988,"d":19,"e":666}, INFO
+2025-03-08T21:56:17.063 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 12:00:00 GMT+05:30 2025, {"a":1741419000,"b":0,"c":1592,"d":32,"e":1074}, INFO
+2025-03-08T21:56:17.064 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 13:00:00 GMT+05:30 2025, {"a":1741422600,"b":0,"c":1800,"d":36,"e":1215}, INFO
+2025-03-08T21:56:17.064 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 14:00:00 GMT+05:30 2025, {"a":1741426200,"b":0,"c":2045,"d":41,"e":1380}, INFO
+2025-03-08T21:56:17.064 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 15:00:00 GMT+05:30 2025, {"a":1741429800,"b":0,"c":2057,"d":41,"e":1388}, INFO
+2025-03-08T21:56:17.064 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 16:00:00 GMT+05:30 2025, {"a":1741433400,"b":0,"c":2851,"d":57,"e":1924}, INFO
+2025-03-08T21:56:17.065 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 17:00:00 GMT+05:30 2025, {"a":1741437000,"b":0,"c":3068,"d":62,"e":2070}, INFO
+2025-03-08T21:56:17.065 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 18:00:00 GMT+05:30 2025, {"a":1741440600,"b":0,"c":3186,"d":64,"e":2150}, INFO
+2025-03-08T21:56:17.065 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 19:00:00 GMT+05:30 2025, {"a":1741444200,"b":0,"c":3198,"d":64,"e":2158}, INFO
+2025-03-08T21:56:17.066 +0530 [V]  - STEPS_DEBUG: Raw details: Sat Mar 08 20:00:00 GMT+05:30 2025, {"a":1741447800,"b":0,"c":4333,"d":87,"e":2924}, INFO
+2025-03-08T21:56:17.066 +0530 [V]  - STEPS_DEBUG: Processed details: Thu Mar 06 00:00:00 GMT+05:30 2025, {"date":"Mar 06, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741271400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741275000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741278600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741282200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0}},"totalActiveTime":0,"totalCalories":0,"totalDistance":0,"totalSteps":0}, INFO
+2025-03-08T21:56:17.067 +0530 [V]  - STEPS_DEBUG: Processed details: Fri Mar 07 00:00:00 GMT+05:30 2025, {"date":"Mar 07, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741285800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741289400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741293000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741296600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741300200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741303800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741307400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741311000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741314600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741318200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741321800000":{"activeTime":0,"calories":37,"distance":1242,"isBandWorn":true,"mode":"NONE","steps":1841},"1741325400000":{"activeTime":0,"calories":1,"distance":45,"isBandWorn":true,"mode":"NONE","steps":66},"1741329000000":{"activeTime":0,"calories":0,"distance":4,"isBandWorn":true,"mode":"NONE","steps":7},"1741332600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741336200000":{"activeTime":0,"calories":6,"distance":196,"isBandWorn":true,"mode":"NONE","steps":289},"1741339800000":{"activeTime":0,"calories":8,"distance":265,"isBandWorn":true,"mode":"NONE","steps":394},"1741343400000":{"activeTime":0,"calories":2,"distance":81,"isBandWorn":true,"mode":"NONE","steps":120},"1741347000000":{"activeTime":0,"calories":40,"distance":1319,"isBandWorn":true,"mode":"NONE","steps":1953},"1741350600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741354200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741357800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741361400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741365000000":{"activeTime":0,"calories":1,"distance":31,"isBandWorn":true,"mode":"NONE","steps":46}},"totalActiveTime":0,"totalCalories":95,"totalDistance":3183,"totalSteps":4716}, INFO
+2025-03-08T21:56:17.068 +0530 [V]  - STEPS_DEBUG: Processed details: Sat Mar 08 00:00:00 GMT+05:30 2025, {"date":"Mar 08, 2025 00:00:00","offset":0,"slotDuration":60,"stepsDetails":{"1741372200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741375800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741379400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741383000000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741386600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741390200000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741393800000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741397400000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":false,"mode":"NONE","steps":0},"1741401000000":{"activeTime":0,"calories":12,"distance":411,"isBandWorn":true,"mode":"NONE","steps":610},"1741404600000":{"activeTime":0,"calories":0,"distance":0,"isBandWorn":true,"mode":"NONE","steps":0},"1741408200000":{"activeTime":0,"calories":1,"distance":33,"isBandWorn":true,"mode":"NONE","steps":48},"1741411800000":{"activeTime":0,"calories":6,"distance":222,"isBandWorn":true,"mode":"NONE","steps":330},"1741415400000":{"activeTime":0,"calories":13,"distance":408,"isBandWorn":true,"mode":"NONE","steps":604},"1741419000000":{"activeTime":0,"calories":4,"distance":141,"isBandWorn":true,"mode":"NONE","steps":208},"1741422600000":{"activeTime":0,"calories":5,"distance":165,"isBandWorn":true,"mode":"NONE","steps":245},"1741426200000":{"activeTime":0,"calories":0,"distance":8,"isBandWorn":true,"mode":"NONE","steps":12},"1741429800000":{"activeTime":0,"calories":16,"distance":536,"isBandWorn":true,"mode":"NONE","steps":794},"1741433400000":{"activeTime":0,"calories":5,"distance":146,"isBandWorn":true,"mode":"NONE","steps":217},"1741437000000":{"activeTime":0,"calories":2,"distance":80,"isBandWorn":true,"mode":"NONE","steps":118},"1741440600000":{"activeTime":0,"calories":0,"distance":8,"isBandWorn":true,"mode":"NONE","steps":12},"1741444200000":{"activeTime":0,"calories":23,"distance":766,"isBandWorn":true,"mode":"NONE","steps":1135}},"totalActiveTime":0,"totalCalories":101,"totalDistance":3380,"totalSteps":5008}, INFO
+2025-03-08T21:56:17.068 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=false Command Done: STEPS ALL, INFO
+2025-03-08T21:56:17.069 +0530 [V]  - TLWStepsCommand.class, [RETSteps(date=Thu Mar 06 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=0, totalCalories=0, totalDistance=0, totalActiveTime=0, stepsDetails={1741271400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741275000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741278600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741282200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false)}), RETSteps(date=Fri Mar 07 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=4716, totalCalories=95, totalDistance=3183, totalActiveTime=0, stepsDetails={1741285800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741289400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741293000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741296600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741300200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741303800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741307400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741311000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741314600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741318200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741321800000=StepsSlotData(mode=NONE, steps=1841, activeTime=0, calories=37, distance=1242, isBandWorn=true), 1741325400000=StepsSlotData(mode=NONE, steps=66, activeTime=0, calories=1, distance=45, isBandWorn=true), 1741329000000=StepsSlotData(mode=NONE, steps=7, activeTime=0, calories=0, distance=4, isBandWorn=true), 1741332600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741336200000=StepsSlotData(mode=NONE, steps=289, activeTime=0, calories=6, distance=196, isBandWorn=true), 1741339800000=StepsSlotData(mode=NONE, steps=394, activeTime=0, calories=8, distance=265, isBandWorn=true), 1741343400000=StepsSlotData(mode=NONE, steps=120, activeTime=0, calories=2, distance=81, isBandWorn=true), 1741347000000=StepsSlotData(mode=NONE, steps=1953, activeTime=0, calories=40, distance=1319, isBandWorn=true), 1741350600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741354200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741357800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741361400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741365000000=StepsSlotData(mode=NONE, steps=46, activeTime=0, calories=1, distance=31, isBandWorn=true)}), RETSteps(date=Sat Mar 08 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=5008, totalCalories=101, totalDistance=3380, totalActiveTime=0, stepsDetails={1741372200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741375800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741379400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741383000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741386600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741390200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741393800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741397400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741401000000=StepsSlotData(mode=NONE, steps=610, activeTime=0, calories=12, distance=411, isBandWorn=true), 1741404600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741408200000=StepsSlotData(mode=NONE, steps=48, activeTime=0, calories=1, distance=33, isBandWorn=true), 1741411800000=StepsSlotData(mode=NONE, steps=330, activeTime=0, calories=6, distance=222, isBandWorn=true), 1741415400000=StepsSlotData(mode=NONE, steps=604, activeTime=0, calories=13, distance=408, isBandWorn=true), 1741419000000=StepsSlotData(mode=NONE, steps=208, activeTime=0, calories=4, distance=141, isBandWorn=true), 1741422600000=StepsSlotData(mode=NONE, steps=245, activeTime=0, calories=5, distance=165, isBandWorn=true), 1741426200000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741429800000=StepsSlotData(mode=NONE, steps=794, activeTime=0, calories=16, distance=536, isBandWorn=true), 1741433400000=StepsSlotData(mode=NONE, steps=217, activeTime=0, calories=5, distance=146, isBandWorn=true), 1741437000000=StepsSlotData(mode=NONE, steps=118, activeTime=0, calories=2, distance=80, isBandWorn=true), 1741440600000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741444200000=StepsSlotData(mode=NONE, steps=1135, activeTime=0, calories=23, distance=766, isBandWorn=true)}), RETSteps(date=Thu Mar 06 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=0, totalCalories=0, totalDistance=0, totalActiveTime=0, stepsDetails={1741271400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741275000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741278600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741282200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false)}), RETSteps(date=Fri Mar 07 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=4716, totalCalories=95, totalDistance=3183, totalActiveTime=0, stepsDetails={1741285800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741289400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741293000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741296600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741300200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741303800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741307400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741311000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741314600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741318200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741321800000=StepsSlotData(mode=NONE, steps=1841, activeTime=0, calories=37, distance=1242, isBandWorn=true), 1741325400000=StepsSlotData(mode=NONE, steps=66, activeTime=0, calories=1, distance=45, isBandWorn=true), 1741329000000=StepsSlotData(mode=NONE, steps=7, activeTime=0, calories=0, distance=4, isBandWorn=true), 1741332600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741336200000=StepsSlotData(mode=NONE, steps=289, activeTime=0, calories=6, distance=196, isBandWorn=true), 1741339800000=StepsSlotData(mode=NONE, steps=394, activeTime=0, calories=8, distance=265, isBandWorn=true), 1741343400000=StepsSlotData(mode=NONE, steps=120, activeTime=0, calories=2, distance=81, isBandWorn=true), 1741347000000=StepsSlotData(mode=NONE, steps=1953, activeTime=0, calories=40, distance=1319, isBandWorn=true), 1741350600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741354200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741357800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741361400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741365000000=StepsSlotData(mode=NONE, steps=46, activeTime=0, calories=1, distance=31, isBandWorn=true)}), RETSteps(date=Sat Mar 08 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=5008, totalCalories=101, totalDistance=3380, totalActiveTime=0, stepsDetails={1741372200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741375800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741379400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741383000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741386600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741390200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741393800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741397400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741401000000=StepsSlotData(mode=NONE, steps=610, activeTime=0, calories=12, distance=411, isBandWorn=true), 1741404600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741408200000=StepsSlotData(mode=NONE, steps=48, activeTime=0, calories=1, distance=33, isBandWorn=true), 1741411800000=StepsSlotData(mode=NONE, steps=330, activeTime=0, calories=6, distance=222, isBandWorn=true), 1741415400000=StepsSlotData(mode=NONE, steps=604, activeTime=0, calories=13, distance=408, isBandWorn=true), 1741419000000=StepsSlotData(mode=NONE, steps=208, activeTime=0, calories=4, distance=141, isBandWorn=true), 1741422600000=StepsSlotData(mode=NONE, steps=245, activeTime=0, calories=5, distance=165, isBandWorn=true), 1741426200000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741429800000=StepsSlotData(mode=NONE, steps=794, activeTime=0, calories=16, distance=536, isBandWorn=true), 1741433400000=StepsSlotData(mode=NONE, steps=217, activeTime=0, calories=5, distance=146, isBandWorn=true), 1741437000000=StepsSlotData(mode=NONE, steps=118, activeTime=0, calories=2, distance=80, isBandWorn=true), 1741440600000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741444200000=StepsSlotData(mode=NONE, steps=1135, activeTime=0, calories=23, distance=766, isBandWorn=true)})], INFO
+2025-03-08T21:56:17.091 +0530 [V]  - TLWStepsCommand.class, [RETSteps(date=Thu Mar 06 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=0, totalCalories=0, totalDistance=0, totalActiveTime=0, stepsDetails={1741271400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741275000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741278600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741282200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false)}), RETSteps(date=Fri Mar 07 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=4716, totalCalories=95, totalDistance=3183, totalActiveTime=0, stepsDetails={1741285800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741289400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741293000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741296600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741300200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741303800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741307400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741311000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741314600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741318200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741321800000=StepsSlotData(mode=NONE, steps=1841, activeTime=0, calories=37, distance=1242, isBandWorn=true), 1741325400000=StepsSlotData(mode=NONE, steps=66, activeTime=0, calories=1, distance=45, isBandWorn=true), 1741329000000=StepsSlotData(mode=NONE, steps=7, activeTime=0, calories=0, distance=4, isBandWorn=true), 1741332600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741336200000=StepsSlotData(mode=NONE, steps=289, activeTime=0, calories=6, distance=196, isBandWorn=true), 1741339800000=StepsSlotData(mode=NONE, steps=394, activeTime=0, calories=8, distance=265, isBandWorn=true), 1741343400000=StepsSlotData(mode=NONE, steps=120, activeTime=0, calories=2, distance=81, isBandWorn=true), 1741347000000=StepsSlotData(mode=NONE, steps=1953, activeTime=0, calories=40, distance=1319, isBandWorn=true), 1741350600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741354200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741357800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741361400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741365000000=StepsSlotData(mode=NONE, steps=46, activeTime=0, calories=1, distance=31, isBandWorn=true)}), RETSteps(date=Sat Mar 08 00:00:00 GMT+05:30 2025, offset=0, slotDuration=60, totalSteps=5008, totalCalories=101, totalDistance=3380, totalActiveTime=0, stepsDetails={1741372200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741375800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741379400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741383000000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741386600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741390200000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741393800000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741397400000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=false), 1741401000000=StepsSlotData(mode=NONE, steps=610, activeTime=0, calories=12, distance=411, isBandWorn=true), 1741404600000=StepsSlotData(mode=NONE, steps=0, activeTime=0, calories=0, distance=0, isBandWorn=true), 1741408200000=StepsSlotData(mode=NONE, steps=48, activeTime=0, calories=1, distance=33, isBandWorn=true), 1741411800000=StepsSlotData(mode=NONE, steps=330, activeTime=0, calories=6, distance=222, isBandWorn=true), 1741415400000=StepsSlotData(mode=NONE, steps=604, activeTime=0, calories=13, distance=408, isBandWorn=true), 1741419000000=StepsSlotData(mode=NONE, steps=208, activeTime=0, calories=4, distance=141, isBandWorn=true), 1741422600000=StepsSlotData(mode=NONE, steps=245, activeTime=0, calories=5, distance=165, isBandWorn=true), 1741426200000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741429800000=StepsSlotData(mode=NONE, steps=794, activeTime=0, calories=16, distance=536, isBandWorn=true), 1741433400000=StepsSlotData(mode=NONE, steps=217, activeTime=0, calories=5, distance=146, isBandWorn=true), 1741437000000=StepsSlotData(mode=NONE, steps=118, activeTime=0, calories=2, distance=80, isBandWorn=true), 1741440600000=StepsSlotData(mode=NONE, steps=12, activeTime=0, calories=0, distance=8, isBandWorn=true), 1741444200000=StepsSlotData(mode=NONE, steps=1135, activeTime=0, calories=23, distance=766, isBandWorn=true)})], INFO
+2025-03-08T21:56:18.332 +0530 [V]  - RLWSleepCommand.class, [], INFO
+2025-03-08T21:56:18.332 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: SLEEP ALL, INFO
+2025-03-08T21:56:18.333 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"SPO2"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:18.333 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"SPO2"}, INFO
+2025-03-08T21:56:18.722 +0530 [V]  - RLWSpo2Command.class, [], INFO
+2025-03-08T21:56:18.722 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: SPO2 ALL, INFO
+2025-03-08T21:56:18.723 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"HEART_RATE"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:18.723 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"HEART_RATE"}, INFO
+2025-03-08T21:56:18.794 +0530 [V]  - HR_DEBUG SYNC_DATES SIZE=0, INFO
+2025-03-08T21:56:23.516 +0530 [V]  - HR_DEBUG sendSuccess 0102, INFO
+2025-03-08T21:56:23.616 +0530 [V]  - HR_DEBUG getMeasureInfo {"A":0,"B":0,"C":0,"D":0,"E":0,"F":0,"G":0,"H":0,"I":0,"J":0,"K":0,"L":0,"M":0,"N":0,"O":0,"P":0,"Q":0,"R":0,"S":0,"T":0.0,"U":21,"V":0,"a":1741451193,"b":5008,"c":101,"d":3380,"e":1,"f":68,"g":0,"h":0,"i":0,"j":0,"k":0,"l":0,"m":610,"n":146,"o":2,"p":74,"q":1,"r":238,"s":4,"t":26,"u":0,"v":0,"w":0,"x":0,"y":0,"z":0}, INFO
+2025-03-08T21:56:23.685 +0530 [V]  - HR_DEBUG sendSuccess 0180, INFO
+2025-03-08T21:56:23.798 +0530 [V]  - HR_DEBUG getHeartRateRecord [{"a":1741356600,"b":0,"c":600,"d":27,"e":1,"f":0,"g":[],"h":[]},{"a":1741372800,"b":0,"c":600,"d":60,"e":1,"f":0,"g":[94,86,87,80,83,63],"h":[1741372800,1741373400,1741374000,1741374600,1741407600,1741408200]},{"a":1741408800,"b":0,"c":600,"d":4,"e":1,"f":0,"g":[80,83,80],"h":[1741408800,1741409400,1741410000]},{"a":1741410600,"b":0,"c":600,"d":36,"e":1,"f":0,"g":[97,66,92,108,89,121,79,53,106,88,101,84,87,101,88,91,93,92,90,94,98,93,72,94,93,86,86,109],"h":[1741410600,1741411200,1741411800,1741412400,1741413000,1741413600,1741414200,1741414800,1741415400,1741416000,1741416600,1741421400,1741422000,1741422600,1741423200,1741423800,1741424400,1741425000,1741425600,1741426200,1741426800,1741427400,1741428000,1741428600,1741429200,1741429800,1741430400,1741431000]},{"a":1741431600,"b":0,"c":600,"d":33,"e":1,"f":0,"g":[76,87,82,93,91,83,122,94,92,81,84,83,83,96,93,89,90,103,100,100,88,86,96,58],"h":[1741431600,1741432200,1741432800,1741433400,1741434000,1741436400,1741437000,1741437600,1741438200,1741438800,1741439400,1741440000,1741440600,1741441200,1741441800,1741446000,1741446600,1741447200,1741447800,1741448400,1741449000,1741449600,1741450200,1741450800]}], INFO
+2025-03-08T21:56:23.798 +0530 [V]  - HR_DEBUG SYNC_DATES SIZE=0, INFO
+2025-03-08T21:56:23.798 +0530 [V]  - HR_DEBUG: DAY_TIME=1741285800000 Fri Mar 07 00:00:00 GMT+05:30 2025, INFO
+2025-03-08T21:56:23.799 +0530 [V]  - HR_DEBUG: {"avgHR":0,"date":"Mar 07, 2025 00:00:00","details":{},"maxHR":0,"minHR":0}, INFO
+2025-03-08T21:56:23.799 +0530 [V]  - HR_DEBUG: DAY_TIME=1741372200000 Sat Mar 08 00:00:00 GMT+05:30 2025, INFO
+2025-03-08T21:56:23.800 +0530 [V]  - HR_DEBUG: {"avgHR":82,"date":"Mar 08, 2025 00:00:00","details":{"1741372800000":94,"1741373400000":86,"1741374000000":87,"1741374600000":80,"1741407600000":83,"1741408200000":63},"maxHR":94,"minHR":63}, INFO
+2025-03-08T21:56:23.800 +0530 [V]  - HR_DEBUG: DAY_TIME=1741372200000 Sat Mar 08 00:00:00 GMT+05:30 2025, INFO
+2025-03-08T21:56:23.800 +0530 [V]  - HR_DEBUG: {"avgHR":81,"date":"Mar 08, 2025 00:00:00","details":{"1741372800000":94,"1741373400000":86,"1741374000000":87,"1741374600000":80,"1741407600000":83,"1741408200000":63,"1741408800000":80,"1741409400000":83,"1741410000000":80},"maxHR":94,"minHR":63}, INFO
+2025-03-08T21:56:23.800 +0530 [V]  - HR_DEBUG: DAY_TIME=1741372200000 Sat Mar 08 00:00:00 GMT+05:30 2025, INFO
+2025-03-08T21:56:23.801 +0530 [V]  - HR_DEBUG: {"avgHR":88,"date":"Mar 08, 2025 00:00:00","details":{"1741372800000":94,"1741373400000":86,"1741374000000":87,"1741374600000":80,"1741407600000":83,"1741408200000":63,"1741408800000":80,"1741409400000":83,"1741410000000":80,"1741410600000":97,"1741411200000":66,"1741411800000":92,"1741412400000":108,"1741413000000":89,"1741413600000":121,"1741414200000":79,"1741414800000":53,"1741415400000":106,"1741416000000":88,"1741416600000":101,"1741421400000":84,"1741422000000":87,"1741422600000":101,"1741423200000":88,"1741423800000":91,"1741424400000":93,"1741425000000":92,"1741425600000":90,"1741426200000":94,"1741426800000":98,"1741427400000":93,"1741428000000":72,"1741428600000":94,"1741429200000":93,"1741429800000":86,"1741430400000":86,"1741431000000":109},"maxHR":121,"minHR":53}, INFO
+2025-03-08T21:56:23.801 +0530 [V]  - HR_DEBUG: DAY_TIME=1741372200000 Sat Mar 08 00:00:00 GMT+05:30 2025, INFO
+2025-03-08T21:56:23.801 +0530 [V]  - HR_DEBUG: {"avgHR":89,"date":"Mar 08, 2025 00:00:00","details":{"1741372800000":94,"1741373400000":86,"1741374000000":87,"1741374600000":80,"1741407600000":83,"1741408200000":63,"1741408800000":80,"1741409400000":83,"1741410000000":80,"1741410600000":97,"1741411200000":66,"1741411800000":92,"1741412400000":108,"1741413000000":89,"1741413600000":121,"1741414200000":79,"1741414800000":53,"1741415400000":106,"1741416000000":88,"1741416600000":101,"1741421400000":84,"1741422000000":87,"1741422600000":101,"1741423200000":88,"1741423800000":91,"1741424400000":93,"1741425000000":92,"1741425600000":90,"1741426200000":94,"1741426800000":98,"1741427400000":93,"1741428000000":72,"1741428600000":94,"1741429200000":93,"1741429800000":86,"1741430400000":86,"1741431000000":109,"1741431600000":76,"1741432200000":87,"1741432800000":82,"1741433400000":93,"1741434000000":91,"1741436400000":83,"1741437000000":122,"1741437600000":94,"1741438200000":92,"1741438800000":81,"1741439400000":84,"1741440000000":83,"1741440600000":83,"1741441200000":96,"1741441800000":93,"1741446000000":89,"1741446600000":90,"1741447200000":103,"1741447800000":100,"1741448400000":100,"1741449000000":88,"1741449600000":86,"1741450200000":96,"1741450800000":58},"maxHR":122,"minHR":53}, INFO
+2025-03-08T21:56:23.801 +0530 [V]  - HR_DEBUG process Completed, INFO
+2025-03-08T21:56:23.802 +0530 [V]  - HR_DEBUG_FINAL [{"avgHR":0,"date":"Mar 07, 2025 00:00:00","details":{},"maxHR":0,"minHR":0},{"avgHR":89,"date":"Mar 08, 2025 00:00:00","details":{"1741372800000":94,"1741373400000":86,"1741374000000":87,"1741374600000":80,"1741407600000":83,"1741408200000":63,"1741408800000":80,"1741409400000":83,"1741410000000":80,"1741410600000":97,"1741411200000":66,"1741411800000":92,"1741412400000":108,"1741413000000":89,"1741413600000":121,"1741414200000":79,"1741414800000":53,"1741415400000":106,"1741416000000":88,"1741416600000":101,"1741421400000":84,"1741422000000":87,"1741422600000":101,"1741423200000":88,"1741423800000":91,"1741424400000":93,"1741425000000":92,"1741425600000":90,"1741426200000":94,"1741426800000":98,"1741427400000":93,"1741428000000":72,"1741428600000":94,"1741429200000":93,"1741429800000":86,"1741430400000":86,"1741431000000":109,"1741431600000":76,"1741432200000":87,"1741432800000":82,"1741433400000":93,"1741434000000":91,"1741436400000":83,"1741437000000":122,"1741437600000":94,"1741438200000":92,"1741438800000":81,"1741439400000":84,"1741440000000":83,"1741440600000":83,"1741441200000":96,"1741441800000":93,"1741446000000":89,"1741446600000":90,"1741447200000":103,"1741447800000":100,"1741448400000":100,"1741449000000":88,"1741449600000":86,"1741450200000":96,"1741450800000":58},"maxHR":122,"minHR":53}], INFO
+2025-03-08T21:56:23.803 +0530 [V]  - TLWHeartRateCommand, [RETHeartRate(date=Fri Mar 07 00:00:00 GMT+05:30 2025, details={}, maxHR=0, minHR=0, avgHR=0), RETHeartRate(date=Sat Mar 08 00:00:00 GMT+05:30 2025, details={1741372800000=94, 1741373400000=86, 1741374000000=87, 1741374600000=80, 1741407600000=83, 1741408200000=63, 1741408800000=80, 1741409400000=83, 1741410000000=80, 1741410600000=97, 1741411200000=66, 1741411800000=92, 1741412400000=108, 1741413000000=89, 1741413600000=121, 1741414200000=79, 1741414800000=53, 1741415400000=106, 1741416000000=88, 1741416600000=101, 1741421400000=84, 1741422000000=87, 1741422600000=101, 1741423200000=88, 1741423800000=91, 1741424400000=93, 1741425000000=92, 1741425600000=90, 1741426200000=94, 1741426800000=98, 1741427400000=93, 1741428000000=72, 1741428600000=94, 1741429200000=93, 1741429800000=86, 1741430400000=86, 1741431000000=109, 1741431600000=76, 1741432200000=87, 1741432800000=82, 1741433400000=93, 1741434000000=91, 1741436400000=83, 1741437000000=122, 1741437600000=94, 1741438200000=92, 1741438800000=81, 1741439400000=84, 1741440000000=83, 1741440600000=83, 1741441200000=96, 1741441800000=93, 1741446000000=89, 1741446600000=90, 1741447200000=103, 1741447800000=100, 1741448400000=100, 1741449000000=88, 1741449600000=86, 1741450200000=96, 1741450800000=58}, maxHR=122, minHR=53, avgHR=89)], INFO
+2025-03-08T21:56:23.811 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: HEART_RATE ALL, INFO
+2025-03-08T21:56:23.812 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"STRESS"},{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:23.812 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"STRESS"}, INFO
+2025-03-08T21:56:24.356 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:24.360 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:24.360 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:24.360 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:24.363 +0530 [V]  - Points Error: {"code":0,"description":"Unable to resolve host \"wearables.titan.in\": No address associated with hostname","recommendation":"Something went wrong. Try again."}, INFO
+2025-03-08T21:56:25.176 +0530 [V]  - --> GET https://wearables.titan.in/svc/health?date=2025-03-01&scope=MONTH, INFO
+2025-03-08T21:56:25.176 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:25.177 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:27.117 +0530 [V]  - HomeFragment Sync IN_PROGRESS, INFO
+2025-03-08T21:56:27.143 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/medications/careseekers/v2?date=2025-03-08&time=21%3A56&tz=19800000, INFO
+2025-03-08T21:56:27.143 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:27.144 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:56:27.144 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:56:27.145 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:27.197 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:27.197 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:27.199 +0530 [V]  - Titan DashboardDFU : Checking FOTA Status, INFO
+2025-03-08T21:56:27.403 +0530 [V]  - lastNotificationReceivedTime = 1741451187403, INFO
+2025-03-08T21:56:27.404 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:27.407 +0530 [V]  - lastNotificationReceivedTime = 1741451187407, INFO
+2025-03-08T21:56:27.407 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:56:29.467 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: STRESS ALL, INFO
+2025-03-08T21:56:29.467 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MULTI_SPORT_DATA"},{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:29.468 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","extra":"ALL","timeStamp":"Mar 08, 2025 21:56:07","type":"MULTI_SPORT_DATA"}, INFO
+2025-03-08T21:56:29.481 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=false Command Done: STRESS ALL, INFO
+2025-03-08T21:56:29.481 +0530 [V]  - RLWStressCommand.class, [RLWStressInfo(date=Fri Mar 07 00:00:00 GMT+05:30 2025, details={1741323600000=31, 1741324200000=32, 1741324800000=25, 1741325400000=27, 1741326000000=39, 1741326600000=49, 1741327200000=51, 1741327800000=46, 1741328400000=23, 1741329000000=47, 1741329600000=32, 1741330200000=46, 1741330800000=51, 1741331400000=37, 1741332000000=48, 1741332600000=44, 1741333200000=57, 1741333800000=56, 1741334400000=46, 1741335000000=43, 1741335600000=46, 1741336200000=63, 1741336800000=23, 1741337400000=26, 1741338000000=36, 1741338600000=43, 1741339200000=46, 1741339800000=56, 1741340400000=47, 1741341000000=61, 1741341600000=32, 1741342200000=57, 1741342800000=60, 1741343400000=57, 1741344000000=59, 1741344600000=61, 1741345200000=54, 1741345800000=56, 1741346400000=50, 1741347000000=64, 1741347600000=58, 1741348200000=61, 1741367400000=49, 1741368000000=40, 1741368600000=53, 1741369200000=39, 1741369800000=46, 1741370400000=25, 1741371000000=48, 1741371600000=44}), RLWStressInfo(date=Sat Mar 08 00:00:00 GMT+05:30 2025, details={1741372800000=48, 1741373400000=44, 1741374000000=51, 1741374600000=44, 1741407600000=54, 1741408200000=34, 1741408800000=50, 1741409400000=30, 1741410000000=50, 1741410600000=54, 1741411200000=29, 1741411800000=26, 1741412400000=61, 1741413000000=56, 1741413600000=40, 1741414200000=42, 1741414800000=23, 1741415400000=57, 1741416000000=63, 1741416600000=52, 1741421400000=38, 1741422000000=55, 1741422600000=65, 1741423200000=54, 1741423800000=60, 1741424400000=58, 1741425000000=55, 1741425600000=50, 1741426200000=48, 1741426800000=54, 1741427400000=32, 1741428000000=37, 1741428600000=45, 1741429200000=57, 1741429800000=54, 1741430400000=53, 1741431000000=52, 1741431600000=26, 1741432200000=33, 1741432800000=33, 1741433400000=51, 1741434000000=46, 1741436400000=49, 1741437000000=75, 1741437600000=46, 1741438200000=43, 1741438800000=36, 1741439400000=52, 1741440000000=43, 1741440600000=40, 1741441200000=58, 1741441800000=47, 1741446000000=43, 1741446600000=47, 1741447200000=41, 1741447800000=60, 1741448400000=50, 1741449000000=51, 1741449600000=51, 1741450200000=25, 1741450800000=21}), RLWStressInfo(date=Thu Mar 06 00:00:00 GMT+05:30 2025, details={})], INFO
+2025-03-08T21:56:29.502 +0530 [V]  - RLWStressCommand.class, [RLWStressInfo(date=Fri Mar 07 00:00:00 GMT+05:30 2025, details={1741323600000=31, 1741324200000=32, 1741324800000=25, 1741325400000=27, 1741326000000=39, 1741326600000=49, 1741327200000=51, 1741327800000=46, 1741328400000=23, 1741329000000=47, 1741329600000=32, 1741330200000=46, 1741330800000=51, 1741331400000=37, 1741332000000=48, 1741332600000=44, 1741333200000=57, 1741333800000=56, 1741334400000=46, 1741335000000=43, 1741335600000=46, 1741336200000=63, 1741336800000=23, 1741337400000=26, 1741338000000=36, 1741338600000=43, 1741339200000=46, 1741339800000=56, 1741340400000=47, 1741341000000=61, 1741341600000=32, 1741342200000=57, 1741342800000=60, 1741343400000=57, 1741344000000=59, 1741344600000=61, 1741345200000=54, 1741345800000=56, 1741346400000=50, 1741347000000=64, 1741347600000=58, 1741348200000=61, 1741367400000=49, 1741368000000=40, 1741368600000=53, 1741369200000=39, 1741369800000=46, 1741370400000=25, 1741371000000=48, 1741371600000=44}), RLWStressInfo(date=Sat Mar 08 00:00:00 GMT+05:30 2025, details={1741372800000=48, 1741373400000=44, 1741374000000=51, 1741374600000=44, 1741407600000=54, 1741408200000=34, 1741408800000=50, 1741409400000=30, 1741410000000=50, 1741410600000=54, 1741411200000=29, 1741411800000=26, 1741412400000=61, 1741413000000=56, 1741413600000=40, 1741414200000=42, 1741414800000=23, 1741415400000=57, 1741416000000=63, 1741416600000=52, 1741421400000=38, 1741422000000=55, 1741422600000=65, 1741423200000=54, 1741423800000=60, 1741424400000=58, 1741425000000=55, 1741425600000=50, 1741426200000=48, 1741426800000=54, 1741427400000=32, 1741428000000=37, 1741428600000=45, 1741429200000=57, 1741429800000=54, 1741430400000=53, 1741431000000=52, 1741431600000=26, 1741432200000=33, 1741432800000=33, 1741433400000=51, 1741434000000=46, 1741436400000=49, 1741437000000=75, 1741437600000=46, 1741438200000=43, 1741438800000=36, 1741439400000=52, 1741440000000=43, 1741440600000=40, 1741441200000=58, 1741441800000=47, 1741446000000=43, 1741446600000=47, 1741447200000=41, 1741447800000=60, 1741448400000=50, 1741449000000=51, 1741449600000=51, 1741450200000=25, 1741450800000=21}), RLWStressInfo(date=Thu Mar 06 00:00:00 GMT+05:30 2025, details={})], INFO
+2025-03-08T21:56:29.913 +0530 [V]  - RLWMultiSportCommand.class, [], INFO
+2025-03-08T21:56:29.913 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: MULTI_SPORT_DATA ALL, INFO
+2025-03-08T21:56:29.913 +0530 [V]  - Sync  dd  [{"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 8, 2025 9:56:07 PM","type":"MY_CYCLE"}], INFO
+2025-03-08T21:56:29.914 +0530 [V]  - LwSyncHandler processSyncCommand: {"band":"REFLEX_LIMITLESS_FS1_PRO","timeStamp":"Mar 08, 2025 21:56:07","type":"MY_CYCLE"}, INFO
+2025-03-08T21:56:29.914 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=true Command Done: MY_CYCLE null, INFO
+2025-03-08T21:56:29.915 +0530 [V]  - Sync  dd  [], INFO
+2025-03-08T21:56:29.915 +0530 [V]  - SYNC_DEBUG:REM: all commands done calling end command, INFO
+2025-03-08T21:56:29.915 +0530 [V]  - syn handle Handler (android.os.Handler) {93c90ce}  end fastrack.reflex.y1@3c9bef, INFO
+2025-03-08T21:56:30.916 +0530 [V]  - Sync End Event , INFO
+2025-03-08T21:56:30.916 +0530 [V]  - SyncStateReceiver Sync false, INFO
+2025-03-08T21:56:30.919 +0530 [V]  - Prescription(s) to be uploaded - [], INFO
+2025-03-08T21:56:30.925 +0530 [V]  - pendingStockLogsMap.isNotEmpty: , INFO
+2025-03-08T21:56:30.935 +0530 [V]  - uploadPendingConsumptions: medicationDao.getConsumptionsWithPrescriptionDetails isEmpty, INFO
+2025-03-08T21:56:30.949 +0530 [V]  - SyncStateReceiver Sync false, INFO
+2025-03-08T21:56:30.949 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/strava/info, INFO
+2025-03-08T21:56:30.950 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:30.950 +0530 [V]  - HomeFragment Sync COMPLETED, INFO
+2025-03-08T21:56:30.952 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:56:30.955 +0530 [V]  - --> PUT https://wearables.titan.in/svc/health/steps, INFO
+2025-03-08T21:56:30.955 +0530 [V]  - Content-Type: application/json; charset=UTF-8, INFO
+2025-03-08T21:56:30.956 +0530 [V]  - , INFO
+2025-03-08T21:56:30.956 +0530 [V]  - Content-Length: 904, INFO
+2025-03-08T21:56:30.956 +0530 [V]  - [{"c":101,"d":3380,"date":"2025-03-08","details":{"8":{"c":12,"d":411,"s":610,"t":0},"10":{"c":1,"d":33,"s":48,"t":0},"11":{"c":6,"d":222,"s":330,"t":0},"12":{"c":13,"d":408,"s":604,"t":0},"13":{"c":4,"d":141,"s":208,"t":0},"14":{"c":5,"d":165,"s":245,"t":0},"15":{"c":0,"d":8,"s":12,"t":0},"16":{"c":16,"d":536,"s":794,"t":0},"17":{"c":5,"d":146,"s":217,"t":0},"18":{"c":2,"d":80,"s":118,"t":0},"19":{"c":0,"d":8,"s":12,"t":0},"20":{"c":23,"d":766,"s":1135,"t":0}},"duration":60,"goal":7000,"goalType":"","s":5008,"t":0},{"c":95,"d":3183,"date":"2025-03-07","details":{"10":{"c":37,"d":1242,"s":1841,"t":0},"11":{"c":1,"d":45,"s":66,"t":0},"12":{"c":0,"d":4,"s":7,"t":0},"14":{"c":6,"d":196,"s":289,"t":0},"15":{"c":8,"d":265,"s":394,"t":0},"16":{"c":2,"d":81,"s":120,"t":0},"17":{"c":40,"d":1319,"s":1953,"t":0},"22":{"c":1,"d":31,"s":46,"t":0}},"duration":60,"goal":7000,"goalType":"","s":4716,"t":0}], INFO
+2025-03-08T21:56:30.956 +0530 [V]  - --> PUT https://wearables.titan.in/svc/health/hr, INFO
+2025-03-08T21:56:30.957 +0530 [V]  - --> END PUT (904-byte body), INFO
+2025-03-08T21:56:30.958 +0530 [V]  - Content-Type: application/json; charset=UTF-8, INFO
+2025-03-08T21:56:30.958 +0530 [V]  - , INFO
+2025-03-08T21:56:30.958 +0530 [V]  - [{"date":"2025-03-08","details":{"1741372800":94,"1741373400":86,"1741374000":87,"1741374600":80,"1741407600":83,"1741408200":63,"1741408800":80,"1741409400":83,"1741410000":80,"1741410600":97,"1741411200":66,"1741411800":92,"1741412400":108,"1741413000":89,"1741413600":121,"1741414200":79,"1741414800":53,"1741415400":106,"1741416000":88,"1741416600":101,"1741421400":84,"1741422000":87,"1741422600":101,"1741423200":88,"1741423800":91,"1741424400":93,"1741425000":92,"1741425600":90,"1741426200":94,"1741426800":98,"1741427400":93,"1741428000":72,"1741428600":94,"1741429200":93,"1741429800":86,"1741430400":86,"1741431000":109,"1741431600":76,"1741432200":87,"1741432800":82,"1741433400":93,"1741434000":91,"1741436400":83,"1741437000":122,"1741437600":94,"1741438200":92,"1741438800":81,"1741439400":84,"1741440000":83,"1741440600":83,"1741441200":96,"1741441800":93,"1741446000":89,"1741446600":90,"1741447200":103,"1741447800":100,"1741448400":100,"1741449000":88,"1741449600":86,"1741450200":, INFO
+2025-03-08T21:56:30.958 +0530 [V]  - --> END PUT (1037-byte body), INFO
+2025-03-08T21:56:30.958 +0530 [V]  - Content-Length: 1037, INFO
+2025-03-08T21:56:30.964 +0530 [V]  - Last Location: 12.9347946:77.5347071, INFO
+2025-03-08T21:56:37.159 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:37.161 +0530 [V]  - --> POST https://wearables.titan.in/svc/users/clickstream, INFO
+2025-03-08T21:56:37.162 +0530 [V]  - Content-Length: 169, INFO
+2025-03-08T21:56:37.162 +0530 [V]  - , INFO
+2025-03-08T21:56:37.162 +0530 [V]  - [{"duration":2,"start":1741451164,"tag":"dashboard"},{"duration":9,"start":1741451175,"tag":"dashboard"},{"duration":2,"start":1741451185,"tag":"heartrate_summary_day"}], INFO
+2025-03-08T21:56:37.163 +0530 [V]  - --> END POST (169-byte body), INFO
+2025-03-08T21:56:37.163 +0530 [V]  - Content-Type: application/json; charset=UTF-8, INFO
+2025-03-08T21:56:37.166 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:37.171 +0530 [V]  - --> PUT https://wearables.titan.in/svc/health/stress, INFO
+2025-03-08T21:56:37.172 +0530 [V]  - Content-Type: application/json; charset=UTF-8, INFO
+2025-03-08T21:56:37.173 +0530 [V]  - , INFO
+2025-03-08T21:56:37.173 +0530 [V]  - [{"date":"2025-03-08","details":{"1741372800":48,"1741373400":44,"1741374000":51,"1741374600":44,"1741407600":54,"1741408200":34,"1741408800":50,"1741409400":30,"1741410000":50,"1741410600":54,"1741411200":29,"1741411800":26,"1741412400":61,"1741413000":56,"1741413600":40,"1741414200":42,"1741414800":23,"1741415400":57,"1741416000":63,"1741416600":52,"1741421400":38,"1741422000":55,"1741422600":65,"1741423200":54,"1741423800":60,"1741424400":58,"1741425000":55,"1741425600":50,"1741426200":48,"1741426800":54,"1741427400":32,"1741428000":37,"1741428600":45,"1741429200":57,"1741429800":54,"1741430400":53,"1741431000":52,"1741431600":26,"1741432200":33,"1741432800":33,"1741433400":51,"1741434000":46,"1741436400":49,"1741437000":75,"1741437600":46,"1741438200":43,"1741438800":36,"1741439400":52,"1741440000":43,"1741440600":40,"1741441200":58,"1741441800":47,"1741446000":43,"1741446600":47,"1741447200":41,"1741447800":60,"1741448400":50,"1741449000":51,"1741449600":51,"1741450200":25,"174145, INFO
+2025-03-08T21:56:37.173 +0530 [V]  - --> END PUT (1889-byte body), INFO
+2025-03-08T21:56:37.172 +0530 [V]  - Content-Length: 1889, INFO
+2025-03-08T21:56:37.176 +0530 [V]  - --> GET https://wearables.titan.in/svc/weather/v2?lon=77.5347071&key=22b9d9df-c50f-4d38-9ac8-e4fec6a5235d&lat=12.9347946, INFO
+2025-03-08T21:56:37.177 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:37.176 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:37.179 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:46.973 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:56:46.976 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:56:46.976 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:56:47.173 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:47.173 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:47.173 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:47.175 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:56:57.002 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:58:40.339 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:58:40.341 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:59:07.042 +0530 [V]  - HomeFragment Sync NONE, INFO
+2025-03-08T21:59:07.044 +0530 [V]  - Points Error: {"code":0,"description":"Unable to resolve host \"wearables.titan.in\": No address associated with hostname","recommendation":"Something went wrong. Try again."}, INFO
+2025-03-08T21:59:07.046 +0530 [V]  - Points Error: {"code":0,"description":"Unable to resolve host \"wearables.titan.in\": No address associated with hostname","recommendation":"Something went wrong. Try again."}, INFO
+2025-03-08T21:59:07.130 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/medications/careseekers/v2?date=2025-03-08&time=21%3A59&tz=19800000, INFO
+2025-03-08T21:59:07.131 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:59:07.132 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:59:07.135 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:59:07.133 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:59:07.224 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:59:07.224 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:59:07.226 +0530 [V]  - HomeFragmnet gpsHotParamListener DeviceConnectionState.CONNECTED, INFO
+2025-03-08T21:59:07.237 +0530 [V]  - Titan DashboardDFU : Checking FOTA Status, INFO
+2025-03-08T21:59:07.427 +0530 [V]  - lastNotificationReceivedTime = 1741451347426, INFO
+2025-03-08T21:59:07.428 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:59:07.453 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T21:59:07.453 +0530 [V]  - lastNotificationReceivedTime = 1741451347451, INFO
+2025-03-08T21:59:17.159 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:59:23.157 +0530 [V]  - Retrieve points, INFO
+2025-03-08T21:59:23.160 +0530 [V]  - --> GET https://wearables.titan.in/svc/users/gamingprofiles, INFO
+2025-03-08T21:59:23.160 +0530 [V]  - --> END GET, INFO
+2025-03-08T21:59:27.173 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO
+2025-03-08T21:59:33.181 +0530 [V]  - <-- HTTP FAILED: java.net.UnknownHostException: Unable to resolve host "wearables.titan.in": No address associated with hostname, INFO

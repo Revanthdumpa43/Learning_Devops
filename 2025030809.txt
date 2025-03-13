@@ -1,0 +1,898 @@
+2025-03-08T09:01:37.267 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T09:01:37.283 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:01:37.298 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:01:37.303 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T09:01:37.308 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=null, INFO
+2025-03-08T09:01:37.308 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T09:01:38.419 +0530 [V]  - CallReceiver : Call State = 2, Phone Number-6302240477, INFO
+2025-03-08T09:01:38.486 +0530 [V]  - CallReceiver : Outgoing Call, Phone Number= 6302240477, Caller Name-, INFO
+2025-03-08T09:01:38.541 +0530 [V]  - MusicControl updateVolume(), INFO
+2025-03-08T09:01:39.019 +0530 [V]  - fission music volume: MusicConfig{currentVolume=10, maxVolume=15, name='null', progress=0, duration=0, state=0, operationType=0}, INFO
+2025-03-08T09:01:39.031 +0530 [V]  - lastNotificationReceivedTime = 1741404699028, INFO
+2025-03-08T09:01:39.033 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:01:39.034 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:01:39.052 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T09:01:39.053 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T09:01:39.055 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:01:39.376 +0530 [V]  - MUSIC_DEBUG_VOLUME:{"a":10,"b":15,"d":0,"e":0,"f":0,"g":0}, INFO
+2025-03-08T09:01:40.008 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:01:40.008 +0530 [V]  - lastNotificationReceivedTime = 1741404700006, INFO
+2025-03-08T09:01:40.010 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:01:40.010 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T09:01:40.012 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T09:01:40.013 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:01:40.026 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=false Command Done: VOLUME null, INFO
+2025-03-08T09:01:40.027 +0530 [V]  - RLWMusicVolumeCommand.class, true, INFO
+2025-03-08T09:01:54.484 +0530 [V]  - MusicControl updateVolume(), INFO
+2025-03-08T09:01:54.606 +0530 [V]  - fission music volume: MusicConfig{currentVolume=15, maxVolume=15, name='null', progress=0, duration=0, state=0, operationType=0}, INFO
+2025-03-08T09:01:54.807 +0530 [V]  - MUSIC_DEBUG_VOLUME:{"a":15,"b":15,"d":0,"e":0,"f":0,"g":0}, INFO
+2025-03-08T09:01:55.608 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=false Command Done: VOLUME null, INFO
+2025-03-08T09:01:55.609 +0530 [V]  - RLWMusicVolumeCommand.class, true, INFO
+2025-03-08T09:02:17.366 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:02:17.369 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:02:17.369 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T09:02:17.371 +0530 [V]  - Music playing from com.android.server.telecom, INFO
+2025-03-08T09:02:17.371 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:02:27.486 +0530 [V]  - CallReceiver : Call State = 0, Phone Number-6302240477, INFO
+2025-03-08T09:02:27.531 +0530 [V]  - CallReceiver : OutgoingCall Ended, Phone Number= 6302240477, Caller Name-, INFO
+2025-03-08T09:02:27.552 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T09:05:23.148 +0530 [V]  - lastNotificationReceivedTime = 1741404923147, INFO
+2025-03-08T09:05:23.149 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:05:23.248 +0530 [V]  - Notification: id-17303299 sent to linwear, INFO
+2025-03-08T09:05:23.681 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T09:11:32.632 +0530 [V]  - lastNotificationReceivedTime = 1741405292631, INFO
+2025-03-08T09:11:32.634 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:11:32.657 +0530 [V]  - Notification: id-1, Duplicate Notification, package-com.google.android.gms, title-System update paused, text-To continue, connect to Wi-Fi, flags-264, INFO
+2025-03-08T09:16:03.117 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.145 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.150 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.171 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.175 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.186 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 8 (GATT_INSUF_AUTHORIZATION or GATT_CONN_TIMEOUT), INFO
+2025-03-08T09:16:03.187 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:16:03.203 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:16:06.655 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:16:10.322 +0530 [V]  - lastNotificationReceivedTime = 1741405570322, INFO
+2025-03-08T09:16:10.327 +0530 [V]  - lastNotificationReceivedTime = 1741405570326, INFO
+2025-03-08T09:16:10.327 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:16:10.329 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:16:10.336 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T09:16:36.695 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:16:36.699 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:16:36.709 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:16:40.205 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:17:10.227 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:17:10.229 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:17:10.239 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:17:15.466 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:17:45.487 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:17:45.490 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:17:45.496 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:17:49.000 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:18:19.025 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:18:19.030 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:18:19.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:18:22.535 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:18:52.558 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:18:52.559 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:18:52.567 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:18:56.066 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:19:26.091 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:19:26.096 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:19:26.104 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:19:29.606 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:19:59.625 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:19:59.629 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:19:59.638 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:20:10.665 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:20:10.985 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:20:40.694 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:20:40.697 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:20:40.703 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:20:43.067 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:20:43.068 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:20:44.201 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:20:49.297 +0530 [V]  - lastNotificationReceivedTime = 1741405849297, INFO
+2025-03-08T09:20:49.300 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:20:49.311 +0530 [V]  - Notification: id-17303299, Duplicate Notification, package-android, title-Connect to open Wi‑Fi network, text-GJBC_Cafeteria, flags-2304, INFO
+2025-03-08T09:21:09.440 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:21:14.217 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:21:14.223 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:21:14.231 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:21:17.723 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:21:19.094 +0530 [V]  - lastNotificationReceivedTime = 1741405879092, INFO
+2025-03-08T09:21:19.096 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:21:19.122 +0530 [V]  - Notification: id-447183670 sent to linwear, INFO
+2025-03-08T09:21:27.133 +0530 [V]  - lastNotificationReceivedTime = 1741405887133, INFO
+2025-03-08T09:21:27.138 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:21:27.154 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T09:21:29.180 +0530 [V]  - lastNotificationReceivedTime = 1741405889179, INFO
+2025-03-08T09:21:29.181 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:21:29.190 +0530 [V]  - Notification: id-447183670, Duplicate Notification, package-com.flipkart.android, title-Big Saving Days: Jaw-dropping deals, text-Shop to save big on 4K TVs, ACs & more, flags-0, INFO
+2025-03-08T09:21:47.737 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:21:47.740 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:21:47.745 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:21:51.245 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:22:10.861 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:11.295 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:11.687 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:12.148 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:15.661 +0530 [V]  - lastNotificationReceivedTime = 1741405935660, INFO
+2025-03-08T09:22:15.666 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:15.713 +0530 [V]  - lastNotificationReceivedTime = 1741405935713, INFO
+2025-03-08T09:22:15.715 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:15.726 +0530 [V]  - Notification: id-2 sent to linwear, INFO
+2025-03-08T09:22:15.772 +0530 [V]  - lastNotificationReceivedTime = 1741405935772, INFO
+2025-03-08T09:22:15.774 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:15.805 +0530 [V]  - lastNotificationReceivedTime = 1741405935805, INFO
+2025-03-08T09:22:15.808 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:15.816 +0530 [V]  - Notification: id-2 sent to linwear, INFO
+2025-03-08T09:22:17.188 +0530 [V]  - lastNotificationReceivedTime = 1741405937187, INFO
+2025-03-08T09:22:17.191 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:22:17.204 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T09:22:21.260 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:22:21.262 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:21.267 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:24.769 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:22:54.791 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:22:54.793 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.802 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.805 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.806 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.807 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.808 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.810 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.810 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.812 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.812 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.814 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.814 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.816 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.816 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.818 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.818 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.820 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.820 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.821 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.822 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.823 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.824 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.825 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.825 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.827 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.827 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.828 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.828 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.829 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.829 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.831 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.831 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.832 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.832 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.833 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.833 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.834 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.834 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.835 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.835 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.836 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.836 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.836 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.837 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.837 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.837 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.838 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.838 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.839 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.839 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.840 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.840 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.841 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.841 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.841 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.842 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.842 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.842 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.843 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.843 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.844 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.845 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:54.846 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:22:54.847 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:22:58.299 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:23:28.323 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:23:28.330 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:23:28.332 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:23:31.828 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:23:48.692 +0530 [V]  - lastNotificationReceivedTime = 1741406028690, INFO
+2025-03-08T09:23:48.693 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:23:48.712 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T09:23:53.160 +0530 [V]  - lastNotificationReceivedTime = 1741406033159, INFO
+2025-03-08T09:23:53.163 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:23:53.179 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T09:24:01.847 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:24:01.848 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:24:01.859 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:24:12.887 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:24:42.913 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:24:42.916 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:24:42.925 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:24:46.425 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:25:16.448 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:25:16.451 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:25:16.457 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:25:19.960 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:25:49.982 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:25:49.985 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:25:49.994 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:25:53.494 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:26:14.679 +0530 [V]  - lastNotificationReceivedTime = 1741406174678, INFO
+2025-03-08T09:26:14.680 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:14.688 +0530 [V]  - Notification: id--234430262 sent to linwear, INFO
+2025-03-08T09:26:23.510 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:26:23.511 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:26:23.515 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:26:27.015 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:26:32.606 +0530 [V]  - lastNotificationReceivedTime = 1741406192605, INFO
+2025-03-08T09:26:32.613 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:32.632 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:33.076 +0530 [V]  - lastNotificationReceivedTime = 1741406193075, INFO
+2025-03-08T09:26:33.076 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:33.083 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.423 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.652 +0530 [V]  - lastNotificationReceivedTime = 1741406197652, INFO
+2025-03-08T09:26:37.654 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.661 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.680 +0530 [V]  - lastNotificationReceivedTime = 1741406197679, INFO
+2025-03-08T09:26:37.686 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.693 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Palm Store . Install, text-, flags-16, INFO
+2025-03-08T09:26:37.698 +0530 [V]  - lastNotificationReceivedTime = 1741406197697, INFO
+2025-03-08T09:26:37.698 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.703 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.725 +0530 [V]  - lastNotificationReceivedTime = 1741406197724, INFO
+2025-03-08T09:26:37.727 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.732 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.830 +0530 [V]  - lastNotificationReceivedTime = 1741406197828, INFO
+2025-03-08T09:26:37.830 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.836 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.850 +0530 [V]  - lastNotificationReceivedTime = 1741406197849, INFO
+2025-03-08T09:26:37.852 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.855 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:37.856 +0530 [V]  - lastNotificationReceivedTime = 1741406197854, INFO
+2025-03-08T09:26:37.860 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.864 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:37.891 +0530 [V]  - lastNotificationReceivedTime = 1741406197891, INFO
+2025-03-08T09:26:37.893 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:50.734 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:51.016 +0530 [V]  - lastNotificationReceivedTime = 1741406211015, INFO
+2025-03-08T09:26:51.055 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:51.063 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:51.208 +0530 [V]  - lastNotificationReceivedTime = 1741406211207, INFO
+2025-03-08T09:26:51.215 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:51.223 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:55.837 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:55.889 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:55.898 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.060 +0530 [V]  - lastNotificationReceivedTime = 1741406216059, INFO
+2025-03-08T09:26:56.063 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.071 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Palm Store . Update, text-, flags-16, INFO
+2025-03-08T09:26:56.114 +0530 [V]  - lastNotificationReceivedTime = 1741406216113, INFO
+2025-03-08T09:26:56.118 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.135 +0530 [V]  - lastNotificationReceivedTime = 1741406216134, INFO
+2025-03-08T09:26:56.137 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.139 +0530 [V]  - lastNotificationReceivedTime = 1741406216139, INFO
+2025-03-08T09:26:56.142 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.148 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Palm Store . Install, text-, flags-16, INFO
+2025-03-08T09:26:56.164 +0530 [V]  - Notification: id-2131493407, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.171 +0530 [V]  - lastNotificationReceivedTime = 1741406216171, INFO
+2025-03-08T09:26:56.174 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.180 +0530 [V]  - lastNotificationReceivedTime = 1741406216179, INFO
+2025-03-08T09:26:56.182 +0530 [V]  - lastNotificationReceivedTime = 1741406216181, INFO
+2025-03-08T09:26:56.182 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.183 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.186 +0530 [V]  - lastNotificationReceivedTime = 1741406216185, INFO
+2025-03-08T09:26:56.187 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:56.195 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.201 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.209 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.217 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.224 +0530 [V]  - Notification: id-2131493417, Duplicate Notification, package-com.transsnet.store, title-Strategy & Tactics: WW2, text-Tap Install, flags-16, INFO
+2025-03-08T09:26:56.336 +0530 [V]  - lastNotificationReceivedTime = 1741406216336, INFO
+2025-03-08T09:26:56.339 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:26:57.033 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:26:57.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:26:57.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:27:00.941 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:27:11.009 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:27:11.012 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:27:11.014 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:27:11.423 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:27:30.954 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:27:30.956 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:27:30.961 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:27:34.458 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:28:04.471 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:28:04.473 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:28:04.478 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:28:15.483 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:28:45.495 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:28:45.496 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:28:45.501 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:28:49.001 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:29:19.016 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:29:19.017 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:29:19.022 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:29:22.521 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:29:52.536 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:29:52.538 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:29:52.544 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:29:56.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:30:26.057 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:30:26.060 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:30:26.065 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:30:29.564 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:30:51.488 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:30:51.861 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:30:52.195 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:30:52.508 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:30:52.511 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:30:59.575 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:30:59.578 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:30:59.581 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:31:03.085 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:31:33.098 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:31:33.102 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:31:33.108 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:31:36.604 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:32:05.755 +0530 [V]  - lastNotificationReceivedTime = 1741406525754, INFO
+2025-03-08T09:32:05.759 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:32:05.764 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:32:05.767 +0530 [V]  - Notification: id--1445021803 sent to linwear, INFO
+2025-03-08T09:32:06.625 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:32:06.627 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:32:06.639 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:32:06.993 +0530 [V]  - lastNotificationReceivedTime = 1741406526992, INFO
+2025-03-08T09:32:06.994 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:32:07.002 +0530 [V]  - Notification: id--1445021803, Duplicate Notification, package-org.telegram.messenger, title-Offers Point, text-CELLO Kidzbee Mini Marvel Avenger Series  Cabinet @1299.Apply 1000 couponhttps://amzn.to/41NIXav, flags-16, INFO
+2025-03-08T09:32:17.647 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:32:22.566 +0530 [V]  - lastNotificationReceivedTime = 1741406542565, INFO
+2025-03-08T09:32:22.567 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:32:22.578 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T09:32:47.665 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:32:47.668 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:32:47.683 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:32:51.175 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:33:21.201 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:33:21.205 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:33:21.216 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:33:25.945 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:33:55.962 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:33:55.963 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:33:55.967 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:33:59.959 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:34:29.968 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 133 (GATT_ERROR), INFO
+2025-03-08T09:34:29.970 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:34:29.972 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:34:34.156 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:34:55.350 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:36:03.570 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:04.287 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:11.359 +0530 [V]  - lastNotificationReceivedTime = 1741406771358, INFO
+2025-03-08T09:36:11.361 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:11.369 +0530 [V]  - Notification: id-17303299, Duplicate Notification, package-android, title-Connect to open Wi‑Fi network, text-GJBC_Cafeteria, flags-2304, INFO
+2025-03-08T09:36:20.752 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:21.258 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T09:36:21.324 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T09:36:21.333 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:21.335 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:21.345 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T09:36:21.345 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=8, INFO
+2025-03-08T09:36:21.346 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:21.352 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:22.163 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=8, INFO
+2025-03-08T09:36:22.163 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:24.250 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:24.250 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:24.252 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:24.252 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:26.353 +0530 [V]  - lastNotificationReceivedTime = 1741406786352, INFO
+2025-03-08T09:36:26.354 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:26.355 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:26.356 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:26.359 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:26.361 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:26.361 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:26.435 +0530 [V]  - Notification: id-740 sent to linwear, INFO
+2025-03-08T09:36:26.826 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T09:36:27.197 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:27.198 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:27.198 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:27.198 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:34.667 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:34.667 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=8, INFO
+2025-03-08T09:36:34.736 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:34.744 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:34.747 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:34.748 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:34.752 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:34.753 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:34.810 +0530 [V]  - lastNotificationReceivedTime = 1741406794807, INFO
+2025-03-08T09:36:34.811 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:34.812 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:34.814 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:34.815 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:34.817 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:34.819 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:34.902 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T09:36:35.300 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T09:36:37.080 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:37.089 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:37.089 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:37.089 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:37.089 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PAUSED, INFO
+2025-03-08T09:36:37.093 +0530 [V]  - lastTime 1741406797093, INFO
+2025-03-08T09:36:37.111 +0530 [V]  - {"album":"Current","artist":"Neha Bhasin • From Smart Shuffle","current":2800,"duration":302000,"playState":"PAUSE","title":"Attu Nuvve"}, INFO
+2025-03-08T09:36:37.112 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T09:36:37.297 +0530 [V]  - fission music info: FissionMusicInfo{musicName='Attu Nuvve', musicSinger='Neha Bhasin • From Smart Shuffle', musicTotalTime=302, AlbumName='Attu Nuvve', playAppName='null', currentVolume=15, maxVolume=15, progress=0, state=1}, INFO
+2025-03-08T09:36:37.494 +0530 [V]  - RLWMusicCommand.class, true, INFO
+2025-03-08T09:36:37.525 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:37.526 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:37.526 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:37.527 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:37.586 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:37.587 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:37.589 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:37.590 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:38.520 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:38.520 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:38.520 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:38.511 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:38.534 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:38.534 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:38.548 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:38.547 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:39.207 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:39.209 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:39.254 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:39.264 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:39.265 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:39.264 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:39.402 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:39.402 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:39.502 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:39.502 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:39.512 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:39.512 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:39.541 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:39.542 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:39.554 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:39.554 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:39.573 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:39.575 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:42.813 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:42.814 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:42.816 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:42.816 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:43.155 +0530 [V]  - lastNotificationReceivedTime = 1741406803153, INFO
+2025-03-08T09:36:43.158 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:36:43.163 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:36:43.168 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:43.168 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:43.171 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:36:43.171 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:36:44.521 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:44.521 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:44.523 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:36:44.523 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:44.532 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:36:44.532 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:36:44.533 +0530 [V]  - Music active, INFO
+2025-03-08T09:36:44.532 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=2, INFO
+2025-03-08T09:38:02.532 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:02.540 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:02.542 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:02.545 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:02.546 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:02.547 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:38:02.750 +0530 [V]  - lastNotificationReceivedTime = 1741406882749, INFO
+2025-03-08T09:38:02.751 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:02.753 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:02.755 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:02.755 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:02.757 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:02.757 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:38:02.834 +0530 [V]  - Notification: id-10 sent to linwear, INFO
+2025-03-08T09:38:03.504 +0530 [V]  - RLWNotificationCommand.class, true, INFO
+2025-03-08T09:38:33.150 +0530 [V]  - lastNotificationReceivedTime = 1741406913149, INFO
+2025-03-08T09:38:33.153 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:33.159 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:33.161 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:33.163 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:33.168 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:33.170 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:38:33.215 +0530 [V]  - lastNotificationReceivedTime = 1741406913214, INFO
+2025-03-08T09:38:33.217 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:33.218 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:33.220 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:33.221 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:33.226 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:33.227 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:38:36.983 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:36.984 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:36.987 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:36.987 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:36.989 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:36.991 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:38:37.321 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:38:37.323 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:38:37.325 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:38:37.327 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:38:37.327 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:38:37.327 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:40:18.410 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:40:18.413 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:40:18.416 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:40:18.416 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:40:18.410 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:40:18.408 +0530 [V]  - lastNotificationReceivedTime = 1741407018407, INFO
+2025-03-08T09:40:18.417 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:40:24.691 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.706 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.706 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.707 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.715 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.718 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:40:24.722 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.724 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.726 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.731 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.737 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.738 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.741 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.744 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.749 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.750 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.751 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.751 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.752 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.752 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.753 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.753 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.754 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.754 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.755 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.755 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.755 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.756 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.756 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.756 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.757 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.757 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.758 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.758 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.759 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.759 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.760 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.760 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.761 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.761 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.762 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.762 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.763 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.763 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.763 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.764 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.764 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.764 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.765 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.765 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.766 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.766 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.767 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.767 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.767 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.768 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.768 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.768 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.769 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.769 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.770 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.770 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.770 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.771 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.771 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.771 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.772 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.772 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.773 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.773 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.773 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.774 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.774 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.775 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.776 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.776 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.777 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.777 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.778 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.778 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.779 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.779 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.780 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.780 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.780 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.781 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.781 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.782 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.783 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.783 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.783 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.784 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.784 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.784 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.785 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.785 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.786 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.786 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.787 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.786 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.787 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.788 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.788 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.788 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.789 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.789 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.791 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.792 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.792 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.793 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.793 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:24.793 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:24.815 +0530 [V]  - Bluetooth disabled, INFO
+2025-03-08T09:40:26.939 +0530 [V]  - Linwear binding Automatic, INFO
+2025-03-08T09:40:26.939 +0530 [V]  - Linwear Auto not connected, INFO
+2025-03-08T09:40:26.940 +0530 [V]  - Linwear auto force connect false, INFO
+2025-03-08T09:40:26.966 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:40:26.967 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:40:26.976 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:40:30.472 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:40:49.064 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:40:51.485 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:40:51.486 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:40:51.488 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:40:51.488 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:40:51.490 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:40:51.490 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:40:51.730 +0530 [V]  - lastNotificationReceivedTime = 1741407051730, INFO
+2025-03-08T09:40:51.732 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:40:51.733 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:40:51.735 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:40:51.735 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:40:51.736 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:40:51.737 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:42:42.974 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.983 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.984 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.986 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.987 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.989 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:42:42.991 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:42:43.005 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:42:46.477 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:42:59.085 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:43:08.752 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.754 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.755 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.757 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.758 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.759 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:43:08.761 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:08.764 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:12.256 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:43:17.900 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:43:32.011 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.015 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.015 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.017 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.017 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.019 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 0 (GATT_SUCCESS), INFO
+2025-03-08T09:43:32.020 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.021 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.021 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.022 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.022 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.023 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.024 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.024 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.025 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.025 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.026 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.026 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.026 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.027 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.027 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.027 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.027 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.027 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.028 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.029 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.030 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.030 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.030 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.030 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.031 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.031 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.031 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.031 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.032 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.031 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.032 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.032 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.032 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.032 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.033 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.033 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.033 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.033 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.033 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.034 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.035 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.036 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.036 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.036 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.036 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.036 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.037 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.038 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.038 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.038 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.038 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.039 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.040 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.041 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.042 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.042 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.042 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.042 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.042 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.043 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.044 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:43:32.045 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:43:32.277 +0530 [V]  - Bluetooth disabled, INFO
+2025-03-08T09:43:34.734 +0530 [V]  - Linwear binding Automatic, INFO
+2025-03-08T09:43:34.735 +0530 [V]  - Linwear Auto not connected, INFO
+2025-03-08T09:43:34.735 +0530 [V]  - Linwear auto force connect false, INFO
+2025-03-08T09:43:34.749 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:43:44.603 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:44.605 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:44.611 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:44.611 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:44.615 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:44.615 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:44.863 +0530 [V]  - lastNotificationReceivedTime = 1741407224862, INFO
+2025-03-08T09:43:44.864 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:44.865 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:44.866 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:44.866 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:44.868 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:44.868 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:44.884 +0530 [V]  - MusicControl updateVolume(), INFO
+2025-03-08T09:43:44.887 +0530 [V]  - SYNC_DEBUG:REM: commandExistsToRemove=false Command Done: VOLUME null, INFO
+2025-03-08T09:43:53.290 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:43:55.103 +0530 [V]  - lastNotificationReceivedTime = 1741407235102, INFO
+2025-03-08T09:43:55.104 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:55.105 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:55.107 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:55.107 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:55.108 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:55.109 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:55.111 +0530 [V]  - lastNotificationReceivedTime = 1741407235110, INFO
+2025-03-08T09:43:55.113 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:55.115 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:55.112 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:55.115 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:55.117 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:55.117 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:56.295 +0530 [V]  - lastNotificationReceivedTime = 1741407236295, INFO
+2025-03-08T09:43:56.296 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:56.298 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:56.299 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:56.300 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:56.301 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:56.301 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:56.310 +0530 [V]  - lastNotificationReceivedTime = 1741407236310, INFO
+2025-03-08T09:43:56.311 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:56.315 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:56.315 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:56.313 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:56.316 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:56.316 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:43:58.098 +0530 [V]  - lastNotificationReceivedTime = 1741407238098, INFO
+2025-03-08T09:43:58.100 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:43:58.102 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:43:58.104 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:43:58.104 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:43:58.106 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:43:58.106 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:44:11.082 +0530 [V]  - lastNotificationReceivedTime = 1741407251081, INFO
+2025-03-08T09:44:11.082 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:44:11.084 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:44:11.087 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:44:11.089 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:44:11.091 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:44:11.092 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:44:20.023 +0530 [V]  - lastNotificationReceivedTime = 1741407260022, INFO
+2025-03-08T09:44:20.025 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T09:44:20.026 +0530 [V]  - Music filters passed, INFO
+2025-03-08T09:44:20.027 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T09:44:20.028 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T09:44:20.030 +0530 [V]  - Music playing from com.spotify.music, INFO
+2025-03-08T09:44:20.031 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:44:28.357 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.366 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.366 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.370 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.370 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.374 +0530 [V]  -  DEBUG_BATTERY_PERCENTAGE connection status: com.polidea.rxandroidble2.exceptions.BleDisconnectedException: Disconnected from MAC='B2:31:65:97:50:12' with status 22 (GATT_CONN_TERMINATE_LOCAL_HOST), INFO
+2025-03-08T09:44:28.374 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTING}, INFO
+2025-03-08T09:44:28.379 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{DISCONNECTED}, INFO
+2025-03-08T09:44:31.867 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTING}, INFO
+2025-03-08T09:44:32.440 +0530 [V]  - DEBUG_BATTERY_PERCENTAGE connection status: RxBleConnectionState{CONNECTED}, INFO
+2025-03-08T09:49:01.899 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T09:49:01.900 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T09:58:49.141 +0530 [V]  - lastNotificationReceivedTime = 1741408129140, INFO
+2025-03-08T09:58:49.142 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T09:58:52.392 +0530 [V]  - lastNotificationReceivedTime = 1741408132391, INFO
+2025-03-08T09:58:52.395 +0530 [V]  - maySetupMediaSessionController active, INFO

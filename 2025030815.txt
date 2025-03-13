@@ -1,0 +1,330 @@
+2025-03-08T15:07:00.799 +0530 [V]  - lastNotificationReceivedTime = 1741426620784, INFO
+2025-03-08T15:07:00.838 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:07:00.839 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:07:00.839 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:07:00.840 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:07:00.841 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:07:00.873 +0530 [V]  - Notification: id-1 sent to linwear, INFO
+2025-03-08T15:10:03.077 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:10:03.096 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:03.111 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:03.138 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:10:03.139 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:10:03.141 +0530 [V]  - Music active, INFO
+2025-03-08T15:10:03.145 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:10:03.148 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:10:03.150 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:03.167 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:03.168 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:10:03.171 +0530 [V]  - Music active, INFO
+2025-03-08T15:10:03.172 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:10:03.175 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:10:08.475 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:10:08.477 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:08.495 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:08.505 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:10:08.506 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:10:08.506 +0530 [V]  - Music active, INFO
+2025-03-08T15:10:08.509 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:10:08.538 +0530 [V]  - lastNotificationReceivedTime = 1741426808538, INFO
+2025-03-08T15:10:08.545 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:08.563 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:08.569 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:10:08.569 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:10:08.573 +0530 [V]  - {"album":"DJ Snake ft. Justin Bieber - Encore","artist":"DJ Snake ft. Justin Bieber - Encore","current":0,"duration":205000,"playState":"PAUSE","title":"Let Me Love You"}, INFO
+2025-03-08T15:10:08.593 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T15:10:08.616 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:10:08.618 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:10:08.621 +0530 [V]  - lastNotificationReceivedTime = 1741426808620, INFO
+2025-03-08T15:10:08.623 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:08.625 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:08.633 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:10:08.634 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:10:08.638 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:10:08.638 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:10:08.796 +0530 [V]  - lastNotificationReceivedTime = 1741426808796, INFO
+2025-03-08T15:10:08.798 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:10:08.800 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:10:08.807 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:10:08.808 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:10:08.811 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:10:08.811 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:13:35.004 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T15:13:35.005 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:35.007 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T15:13:35.008 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:35.100 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:35.101 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:35.103 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T15:13:35.104 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:35.104 +0530 [V]  - Music Controller onPlaybackStateChanged PlaybackState.STATE_PLAYING, INFO
+2025-03-08T15:13:35.105 +0530 [V]  - {"album":"DJ Snake ft. Justin Bieber - Encore","artist":"DJ Snake ft. Justin Bieber - Encore","current":0,"duration":205000,"playState":"PLAYING","title":"Let Me Love You"}, INFO
+2025-03-08T15:13:35.105 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T15:13:35.276 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T15:13:35.276 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:35.276 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:35.277 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:35.513 +0530 [V]  - lastNotificationReceivedTime = 1741427015512, INFO
+2025-03-08T15:13:35.514 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:13:35.515 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:13:35.517 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:35.518 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:35.519 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:13:35.520 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:13:54.673 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:54.673 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:54.675 +0530 [V]  - MusicControl updateTrack(), INFO
+2025-03-08T15:13:54.675 +0530 [V]  - {"album":"Ed Sheeran - ÷","artist":"Ed Sheeran - ÷","current":0,"duration":263000,"playState":"PLAYING","title":"Perfect"}, INFO
+2025-03-08T15:13:54.677 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:13:54.678 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:55.036 +0530 [V]  - lastNotificationReceivedTime = 1741427035035, INFO
+2025-03-08T15:13:55.037 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:13:55.041 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:13:55.045 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:55.046 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:55.048 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:13:55.048 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:13:55.299 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:55.299 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:55.299 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=3, INFO
+2025-03-08T15:13:55.300 +0530 [V]  - Music active, INFO
+2025-03-08T15:13:55.508 +0530 [V]  - lastNotificationReceivedTime = 1741427035507, INFO
+2025-03-08T15:13:55.508 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:13:55.510 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:13:55.517 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:13:55.517 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:13:55.519 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:13:55.519 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:18:19.079 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T15:18:19.080 +0530 [V]  - Music active, INFO
+2025-03-08T15:18:19.082 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T15:18:19.084 +0530 [V]  - Music active, INFO
+2025-03-08T15:18:19.102 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=1, INFO
+2025-03-08T15:18:19.102 +0530 [V]  - Music active, INFO
+2025-03-08T15:18:19.349 +0530 [V]  - lastNotificationReceivedTime = 1741427299349, INFO
+2025-03-08T15:18:19.350 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:18:19.353 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:18:19.358 +0530 [V]  - Music onMetadataChanged data: true && true, INFO
+2025-03-08T15:18:19.358 +0530 [V]  - Music onMetadataChanged, INFO
+2025-03-08T15:18:19.361 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:18:19.361 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:23:37.291 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:23:37.293 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:23:37.302 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:23:37.305 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:23:37.307 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:23:37.308 +0530 [V]  - Music active, INFO
+2025-03-08T15:23:37.313 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:23:37.342 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:23:37.350 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:23:37.352 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:23:37.354 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:23:37.355 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:24:47.223 +0530 [V]  - lastNotificationReceivedTime = 1741427687222, INFO
+2025-03-08T15:24:47.225 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:24:47.227 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:24:47.228 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:24:47.230 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:24:47.231 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:24:47.446 +0530 [V]  - lastNotificationReceivedTime = 1741427687445, INFO
+2025-03-08T15:24:47.447 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:24:47.448 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:24:47.449 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:24:47.451 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:24:47.452 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:24:47.455 +0530 [V]  - lastNotificationReceivedTime = 1741427687455, INFO
+2025-03-08T15:24:47.458 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:24:47.459 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:24:47.460 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:24:47.462 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:24:47.461 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:18.221 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:25:18.221 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:25:18.223 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:25:18.230 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:25:18.231 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:25:18.231 +0530 [V]  - Music active, INFO
+2025-03-08T15:25:18.236 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:18.247 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:25:18.247 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:25:18.249 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:25:18.249 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:25:18.250 +0530 [V]  - Music active, INFO
+2025-03-08T15:25:18.252 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:25:18.260 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:41.635 +0530 [V]  - lastNotificationReceivedTime = 1741427741635, INFO
+2025-03-08T15:25:41.636 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:25:41.638 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:25:41.639 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:25:41.641 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:41.641 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:25:41.656 +0530 [V]  - Notification: id-1741344506 sent to linwear, INFO
+2025-03-08T15:25:46.801 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:25:46.802 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:25:46.803 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:25:46.805 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:46.805 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:25:55.638 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:25:55.638 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:25:55.639 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:25:55.642 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:25:55.643 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:25:55.642 +0530 [V]  - Music active, INFO
+2025-03-08T15:25:55.642 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:25:59.669 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T15:25:59.670 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:29:42.257 +0530 [V]  - lastNotificationReceivedTime = 1741427982256, INFO
+2025-03-08T15:29:42.262 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:29:42.285 +0530 [V]  - Notification: id-1, Duplicate Notification, package-com.myntra.android, title-, text-Solethreads Shoe is almost gone. Better hurry!  , flags-16, INFO
+2025-03-08T15:37:20.116 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:39:33.223 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:39:33.249 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:39:33.249 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:39:33.253 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:39:33.254 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:39:33.256 +0530 [V]  - Music active, INFO
+2025-03-08T15:39:33.256 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:39:33.257 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:40:45.438 +0530 [V]  - lastNotificationReceivedTime = 1741428645437, INFO
+2025-03-08T15:40:45.439 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:40:45.439 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:40:45.440 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:40:45.442 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:40:45.442 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:40:45.473 +0530 [V]  - Notification: id--2047291174 sent to linwear, INFO
+2025-03-08T15:42:26.443 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:42:26.444 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:42:26.446 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:42:26.448 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:42:26.450 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:42:26.450 +0530 [V]  - Music active, INFO
+2025-03-08T15:42:26.451 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:42:26.452 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:42:26.452 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:42:26.453 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:42:26.454 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:42:26.455 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:42:26.455 +0530 [V]  - Music active, INFO
+2025-03-08T15:42:26.456 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:42:26.457 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:42:26.457 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:42:26.458 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:42:26.460 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:42:26.460 +0530 [V]  - Music active, INFO
+2025-03-08T15:42:26.460 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:42:26.461 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:47:44.213 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:47:44.225 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:47:44.228 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:47:44.230 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:47:44.230 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:47:44.863 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:47:44.864 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:47:44.865 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:47:44.867 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:47:44.867 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:47:45.290 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:47:45.291 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:47:45.292 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:47:45.294 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:47:45.294 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:53:43.103 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:53:43.103 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T15:53:43.110 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:53:43.114 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:53:43.115 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:53:43.116 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:53:43.117 +0530 [V]  - Music active, INFO
+2025-03-08T15:53:43.119 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:53:55.209 +0530 [V]  - lastNotificationReceivedTime = 1741429435208, INFO
+2025-03-08T15:53:55.209 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:53:55.210 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:53:55.210 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:53:55.211 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:53:55.212 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:53:55.212 +0530 [V]  - lastNotificationReceivedTime = 1741429435212, INFO
+2025-03-08T15:53:55.213 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:53:55.214 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:53:55.214 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:53:55.215 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:53:55.215 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:53:55.234 +0530 [V]  - Notification: id-0 sent to linwear, INFO
+2025-03-08T15:55:19.637 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:55:19.638 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:55:19.640 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:55:19.642 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:55:19.643 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:55:19.644 +0530 [V]  - Music active, INFO
+2025-03-08T15:55:19.646 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:55:19.651 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:55:19.652 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:55:19.654 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:55:19.655 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:55:19.656 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:55:19.656 +0530 [V]  - Music active, INFO
+2025-03-08T15:55:19.658 +0530 [V]  - Music playing from com.jio.media.jiobeats, INFO
+2025-03-08T15:55:26.385 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:55:26.385 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:55:26.390 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:55:26.395 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:55:26.397 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:55:26.399 +0530 [V]  - Music active, INFO
+2025-03-08T15:55:26.403 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:55:26.407 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:55:26.408 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:55:26.410 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:55:26.412 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:55:26.413 +0530 [V]  - Music active, INFO
+2025-03-08T15:55:26.411 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:55:26.416 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:55:26.416 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:55:26.416 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:55:26.419 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:55:26.420 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:55:26.420 +0530 [V]  - Music Controller onPlaybackStateChanged state.state=0, INFO
+2025-03-08T15:55:26.421 +0530 [V]  - Music active, INFO
+2025-03-08T15:55:26.423 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:58:33.105 +0530 [V]  - lastNotificationReceivedTime = 1741429713105, INFO
+2025-03-08T15:58:33.109 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:58:33.126 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:58:33.126 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:58:33.134 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:58:33.134 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:58:46.497 +0530 [V]  - lastNotificationReceivedTime = 1741429726496, INFO
+2025-03-08T15:58:46.499 +0530 [V]  - Music controllers is not empty, INFO
+2025-03-08T15:58:46.502 +0530 [V]  - Music filters passed, INFO
+2025-03-08T15:58:46.503 +0530 [V]  - Music onMetadataChanged data: false && true, INFO
+2025-03-08T15:58:46.505 +0530 [V]  - Music playing from com.apple.atve.androidtv.appletv, INFO
+2025-03-08T15:58:46.505 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:58:48.985 +0530 [V]  - Music Controller Session Destroyed, INFO
+2025-03-08T15:58:48.992 +0530 [V]  - onActiveSessionsChanged, INFO
+2025-03-08T15:59:00.599 +0530 [V]  - lastNotificationReceivedTime = 1741429740598, INFO
+2025-03-08T15:59:00.600 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:00.601 +0530 [V]  - lastNotificationReceivedTime = 1741429740601, INFO
+2025-03-08T15:59:00.602 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:16.546 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:16.548 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:18.151 +0530 [V]  - lastNotificationReceivedTime = 1741429758150, INFO
+2025-03-08T15:59:18.151 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:18.156 +0530 [V]  - lastNotificationReceivedTime = 1741429758156, INFO
+2025-03-08T15:59:18.157 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:19.776 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:20.047 +0530 [V]  - lastNotificationReceivedTime = 1741429760047, INFO
+2025-03-08T15:59:20.048 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:20.054 +0530 [V]  - lastNotificationReceivedTime = 1741429760053, INFO
+2025-03-08T15:59:20.055 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:23.920 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:27.438 +0530 [V]  - lastNotificationReceivedTime = 1741429767438, INFO
+2025-03-08T15:59:27.439 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:31.625 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:34.733 +0530 [V]  - lastNotificationReceivedTime = 1741429774733, INFO
+2025-03-08T15:59:34.737 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:34.739 +0530 [V]  - lastNotificationReceivedTime = 1741429774738, INFO
+2025-03-08T15:59:34.742 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:37.482 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:37.631 +0530 [V]  - lastNotificationReceivedTime = 1741429777631, INFO
+2025-03-08T15:59:37.632 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:37.641 +0530 [V]  - maySetupMediaSessionController active, INFO
+2025-03-08T15:59:37.640 +0530 [V]  - lastNotificationReceivedTime = 1741429777639, INFO
+2025-03-08T15:59:37.690 +0530 [V]  - lastNotificationReceivedTime = 1741429777690, INFO
+2025-03-08T15:59:37.692 +0530 [V]  - maySetupMediaSessionController active, INFO
